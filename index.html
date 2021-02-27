@@ -1,0 +1,49 @@
+---
+layout: default
+title: "Rebble"
+date:   2015-06-12 11:56:42
+
+permalink: /
+---
+
+<div class="container">
+    <div class="row">
+      <div class="title" id="helptitle">
+        <br>
+      </div>
+      <div class="wide">
+        <center>
+          <input class="search matchtitle" type="text" placeholder="What do you need help with?"></input>
+        </center>
+      </div>
+    </div>
+
+    <br><br>
+
+    <div class="row">
+      <ul class="linklist">
+        <li><a href="/solution/setup/"> I need help setting up Rebble Web Services </a></li>
+        {% for post in site.solution limit:9 %}
+           {% if post.osSpecific != true or post.os == "choose" %}
+              {% if post.hideFromSearch != true %}
+                <li><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.prompt }} </a></li>
+              {% endif %}
+            {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+{% if site.posts == 0 %}
+    <section>
+        <div class="text-content">
+            <p><em>There's nothing here (yet...)</em></p>
+            <p>
+                In the meantime, check out the <a href="https://discordapp.com/invite/aRUAYFN">
+                    Discord Server</a> or subscribe to the mailing list:
+            </p>
+            {% include mailinglist.html %}
+        </div>
+    </section>
+    <style> footer { display: none; } </style>
+{% endif %}

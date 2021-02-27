@@ -1,0 +1,37 @@
+
+# Site settings
+title: Rebble
+# email: your-email@domain.com
+description: >
+  The goal of Rebble is to maintain and advance Pebble functionality in the absence of Pebble Technology Corp.
+baseurl: ""		# no trailing slash
+url: ""	# no trailing slash
+excerpt_separator: <!--more-->
+
+about: >
+  TODO
+twitter_username:    pebble_dev
+github_username:     pebble-dev
+
+# Blog pagination settings
+paginate: 5
+paginate_path: "/blog/:num/"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+sass:
+  sass_dir: _scss
+  style: compressed
+
+plugins:
+- jekyll-paginate
+- jemoji
+
+collections: 
+  solution:
+    output: true
+    permalink: /:collection/:path/

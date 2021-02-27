@@ -1,0 +1,45 @@
+<header>
+    <nav class="navbar underline navbar-expand-lg navbar-dark default-color">
+        <a class="navbar-brand" href="#">Rebble Help
+    
+    
+          <span id="rebblewatch"></span>
+    
+    
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+    
+            <li class="nav-item steps">
+              <div class="helpquote dark">
+                {% if page.prompt %}
+                    <i class="fas fa-angle-double-right"></i> {{ page.prompt }}
+                    
+                    <div>
+                        <i class="fas fa-walking"></i> <span id="stepStatus"></span>
+                    </div>
+                    
+                {% endif %}
+              </div>
+            </li>
+    
+          </ul>
+          <ul class="navbar-nav navbar-dark nav-flex-icons">
+            <li class="nav-item " id="viewAllOn">
+                <a class="nav-link" href="{{ page.link }}?viewall=true"> <i class="fas fa-list-alt"></i> View All Steps</a>
+            </li>
+            <li class="nav-item hidden" id="viewAllOff">
+                <a class="nav-link" href="{{ page.link }}?viewall=false"> <i class="fas fa-shoe-prints"></i> Step-by-step</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{% if page.url == "/" %} https://rebble.io {% else %}/{% endif %}"> <i class="fas fa-home"></i> Home </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="percbar" style="width: 0%"></div>
+</header>
