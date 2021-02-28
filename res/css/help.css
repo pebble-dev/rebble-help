@@ -152,6 +152,7 @@ qr img {
 }
 img {
   max-height: 400px;
+  max-width: 90%;
   /* width: 200px; */
   /* margin-left: calc(50% - 100px); */
   margin-left: 30px;
