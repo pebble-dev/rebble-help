@@ -32,6 +32,6 @@ plugins:
 - jemoji
 
 collections: 
-  solution:
+  topic:
     output: true
     permalink: /:collection/:path/
