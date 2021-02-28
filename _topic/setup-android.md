@@ -69,7 +69,7 @@ Run through the Pebble setup screens. Make sure you allow notification access:
 
 ![](/images/setup/8.png)
 
-# Finish configuring your Pebble
+# Complete the Pebble pairing
 
 Once you get to this screen, you've finished part 1 - connecting your Pebble.   
    
