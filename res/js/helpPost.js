@@ -52,6 +52,11 @@ function pageToStepByStep() {
 
     steps.count = numOfSteps
 
+    if (steps.count == 1) { 
+        $('#stepsman').addClass("hidden");
+        return
+    }
+
     if (findGetParameter("viewall") == "true") {
         //Prepend the step numbers then die
         for (var i=0; i<numOfSteps; i++) {
