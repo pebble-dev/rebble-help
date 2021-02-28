@@ -17,10 +17,10 @@
             <li class="nav-item steps">
               <div class="helpquote dark">
                 {% if page.prompt %}
-                    <i class="fas fa-angle-double-right"></i> {{ page.prompt }}
+                <i class="fas fa-angle-double-right"></i> {{ page.prompt }}
                     
                     <div>
-                        <i class="fas fa-walking"></i> <span id="stepStatus"></span>
+                        <i class="fas fa-walking" id="stepsman"></i> <span id="stepStatus"></span>
                     </div>
                     
                 {% endif %}
@@ -29,12 +29,14 @@
     
           </ul>
           <ul class="navbar-nav navbar-dark nav-flex-icons">
+            {% if page.url != "/" %}
             <li class="nav-item " id="viewAllOn">
                 <a class="nav-link" href="{{ page.link }}?viewall=true"> <i class="fas fa-list-alt"></i> View All Steps</a>
             </li>
             <li class="nav-item hidden" id="viewAllOff">
                 <a class="nav-link" href="{{ page.link }}?viewall=false"> <i class="fas fa-shoe-prints"></i> Step-by-step</a>
             </li>
+            {% endif %}
             <li class="nav-item">
               <a class="nav-link" href="{% if page.url == "/" %} https://rebble.io {% else %}/{% endif %}"> <i class="fas fa-home"></i> Home </a>
             </li>
