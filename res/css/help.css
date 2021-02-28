@@ -85,6 +85,9 @@ h1 {
   font-size: 2rem;
   margin-bottom: 10px;
 }
+.linklist {
+  padding-left: 0;
+}
 .linklist a {
   color: inherit;
 }
@@ -119,6 +122,7 @@ a.link {
 a.nodec {
   color: inherit !important;
   text-decoration: none !important;
+  display: inline !important;
 }
 
 button {
@@ -164,4 +168,13 @@ img {
 
 .hidden {
   display: none !important;
+}
+
+img[alt=icon] { 
+  width: 50px !important; 
+  margin: 0px;
+}
+
+strong {
+  font-weight: bolder;
 }
