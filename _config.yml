@@ -1,9 +1,9 @@
 
 # Site settings
-title: Rebble
+title: Rebble Help
 # email: your-email@domain.com
 description: >
-  The goal of Rebble is to maintain and advance Pebble functionality in the absence of Pebble Technology Corp.
+  Rebble Support Center, for any and all issues with your Pebble smartwatch
 baseurl: ""		# no trailing slash
 url: ""	# no trailing slash
 excerpt_separator: <!--more-->
@@ -12,10 +12,6 @@ about: >
   TODO
 twitter_username:    pebble_dev
 github_username:     pebble-dev
-
-# Blog pagination settings
-paginate: 5
-paginate_path: "/blog/:num/"
 
 # Build settings
 markdown: kramdown
@@ -28,7 +24,6 @@ sass:
   style: compressed
 
 plugins:
-- jekyll-paginate
 - jemoji
 
 collections: 

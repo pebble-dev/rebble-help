@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar underline navbar-expand-lg navbar-dark default-color">
-        <a class="navbar-brand" href="#">Rebble Help
+        <a class="navbar-brand" href="#">{{ site.title }}
     
     
           <span id="rebblewatch"></span>
@@ -29,7 +29,11 @@
     
           </ul>
           <ul class="navbar-nav navbar-dark nav-flex-icons">
-            {% if page.url != "/" %}
+            {% if page.url == "/" %}
+            <li class="nav-item " id="viewAllOn">
+              <a class="nav-link" href="https://rebble.io/discord"> <i class="fab fa-discord"></i> Rebble Discord</a>
+          </li>
+            {% else %}
             <li class="nav-item " id="viewAllOn">
                 <a class="nav-link" href="{{ page.link }}?viewall=true"> <i class="fas fa-list-alt"></i> View All Steps</a>
             </li>
