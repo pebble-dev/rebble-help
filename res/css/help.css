@@ -24,6 +24,9 @@ body.clear {
 
 }
 
+.lite {
+  font-weight: 300;
+}
 .default-color {
   background-color: var(--color-background) !important;
 }
@@ -146,6 +149,9 @@ qr img {
 .highlight {
   background-color: var(--color-header);
 }
+.highlight-text {
+  color: var(--color-header);
+}
 
 .helpcontent h1 {
   margin-bottom: 60px;
@@ -155,9 +161,15 @@ img {
   max-width: 90%;
   /* width: 200px; */
   /* margin-left: calc(50% - 100px); */
+  
+}
+.post img {
+  border: 6px solid black;
+}
+qr img {
+  border: none !important;
   margin-left: 30px;
 }
-
 /* Hide notmobile stuff on mobile */
 @media screen and (max-width: 600px) {
   notmobile {
@@ -173,7 +185,10 @@ img {
 
 img[alt=icon] { 
   width: 50px !important; 
-  margin: 0px;
+  border: none !important;
+}
+img[alt=noborder] { 
+  border: none !important;
 }
 
 strong {
