@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Sideloading .pbw files on Android"
-prompt: "Sideloading .pbw files on Android"
+frontPage: true
+title: "Opening .pbw files on Android"
+prompt: "Opening .pbw files on Android"
 keywords: "sideload pbw side load install download open with pebble charon sideloader"
 date:   2021-02-01 07:14:42
 author: "Will0"
@@ -9,7 +10,7 @@ osSpecific: false
 os: android
 ---
 
-# Sideloading .pbw files on Android 
+# Opening .pbw files on Android 
 
 Pebble watchapps and faces can be downloaded as .pbw files, and 'sideloaded' to the Pebble app.   
 You just download the .pbw file, open it in your phone's file manager, and it will open with the Pebble app.
@@ -26,6 +27,6 @@ Google Play QR Code:
 
 </notmobile>    
    
-The app is also available on [F-Droid]() and [Github]().     
+The app is also available on [F-Droid]() and [Github](https://github.com/pebble-dev/rebble-sideloader/releases).     
     
 Once installed, you can now open .pbw files with *Sideloader*, which will in turn open the app with Pebble!

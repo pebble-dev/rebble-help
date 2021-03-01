@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Purchase a Rebble Subscription"
-prompt: "Purchase a Rebble Subscription"
+prompt: "How to Purchase a Rebble Subscription"
 keywords: "subscription paid tier timeline weather voice dictation replies reply pay subscribe purchase"
 date:   2021-02-01 07:14:42
 author: "Will0"

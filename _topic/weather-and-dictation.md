@@ -1,5 +1,6 @@
 ---
 layout: post
+frontPage: true
 title: "Weather and Dictation"
 prompt: "Weather and Dictation services"
 keywords: "weather dictation voice replies talk pin sunrise sunset timeline"

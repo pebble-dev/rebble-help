@@ -2,7 +2,7 @@
 layout: post
 title: "Locker Sync Issue"
 prompt: "Trouble downloading Rebble apps"
-keywords: "locker sync download not available lockersync installed"
+keywords: "locker sync download not available lockersync installed unsupported watchface app"
 date:   2021-02-01 07:14:42
 author: "Will0"
 osSpecific: false

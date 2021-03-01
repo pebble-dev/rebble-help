@@ -111,7 +111,7 @@ If you get back to the Pebble app and don't see that screen, go back to the brow
 
 # You’re done!
 
-![](/images/setup/13.png)
+![noborder](/images/setup/13.png)
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 

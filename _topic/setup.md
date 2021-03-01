@@ -1,6 +1,6 @@
 ---
 layout: post
-hideFromSearch: true
+frontPage: true
 title: "Setup Rebble Web Services"
 prompt: "Setting up Rebble Web Services"
 keywords: "setup start started install rebble help first time inital"
