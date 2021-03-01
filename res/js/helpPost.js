@@ -35,7 +35,6 @@ function findGetParameter(parameterName) {
 
 function pageToStepByStep() {
 
-
     var numOfSteps = 0;
     $("h1").each(function(index) {
 
@@ -59,6 +58,7 @@ function pageToStepByStep() {
 
     if (findGetParameter("viewall") == "true") {
         //Prepend the step numbers then die
+        $("h1").addClass("mt-5");
         for (var i=0; i<numOfSteps; i++) {
             console.log("#" + steps[i].startID)
             $("#" + steps[i].startID).html((i+1) + ". " + $("#" + steps[i].startID).html())
@@ -83,22 +83,33 @@ function pageToStepByStep() {
 }
 function selectStep(stepID) {
     if (stepID > steps.count) { return }
-    var step = steps[stepID]
-    var title = '<h1> ' + (stepID+1) + ". " + step.title + '</h1>'
+    var step = steps[stepID];
+    //Humans are not 0 based
+    stepID++
+
+    var shouldHideFirstStepNumber = $('#metadata').data("hidefirstnumber");
     
-    $('#stepStatus').html((stepID+1) + " / " + steps.count)
+    if (shouldHideFirstStepNumber != true || stepID != 1) {
+        var title = '<h1> ' + stepID + ". " + step.title + '</h1>'
+    } else {
+        var title = '<h1>' + step.title + '</h1>'
+    }
+    
+    $('#stepStatus').html(stepID + " / " + steps.count)
     $("#helpcontent").html(step.content)
     $("#helpcontent").prepend(title)
 
-    var percComplete = (stepID+1) / steps.count * 100
+    var percComplete = stepID / steps.count * 100
     $(".percbar").css("width", percComplete + "%")
 
     $("#navButtons").removeClass("hidden");
 
     if (currentStep == steps.count-1) {
         $('#btn_next').addClass("hidden");
+        $('#btn_home').removeClass("hidden");
     } else {
         $('#btn_next').removeClass("hidden");
+        $('#btn_home').addClass("hidden");
     }
 
     if (currentStep == 0) {
@@ -107,7 +118,7 @@ function selectStep(stepID) {
         $('#btn_prev').removeClass("hidden");
     }
 
-    location.hash = '#' + (stepID+1);
+    location.hash = '#' + stepID;
 
     $('html,body').scrollTop(0);
 
