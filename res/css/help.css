@@ -2,6 +2,7 @@ body {
   font-family: Lato,Helvetica,Helvetica Neue,Arial,sans-serif;
   --color-background: #f6faf8;
   --color-header: #FFAA00;
+  --color-rebble-orange: #ff4700;
   /* --color-header: #f88f1d; */
   --color-background-dark: #9e6900;
   --color-foreground: #FFFFFF;
@@ -150,7 +151,7 @@ qr img {
   background-color: var(--color-header);
 }
 .highlight-text {
-  color: var(--color-header);
+  color: var(--color-rebble-orange);
 }
 
 .helpcontent h1 {
