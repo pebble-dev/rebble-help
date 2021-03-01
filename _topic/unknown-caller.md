@@ -9,15 +9,12 @@ osSpecific: false
 os: android
 ---
 
-# On Android (9.0+), incoming calls are displayed on the watch as “Unknown caller”
+# Incoming calls are displayed as “Unknown caller”
 
-    This topic is incomplete, and is just a placeholder
+If you are using the Pebble app with Android 9 or later, you might have trouble with caller ID.
 
-In order to fix “Unknown caller” or altogether missing notifications on incoming calls for Pebble paired with Android 9.0 devices, there is a workaround with Dialer for Pebble app:
+The solution is to install [Dialer for Pebble](https://apps.rebble.io/en_US/application/532323bf60c773c1420000a8), and the associated [companion app](https://play.google.com/store/apps/details?id=com.matejdro.pebbledialer).
 
-- Install Dialer for Pebble companion app and a respective App for Pebble.
-- Open the Pebble app on your phone, and go to Notifications. Then disable notifications for Phone Calls.
-- Open the Dialer for Pebble app on your phone, and enable Call Popup for Incoming and Outgoing calls.
-- Make sure Dialer for Pebble app has system permissions to access Contacts, Call Log, Dialer and SMS on your phone.
+Make sure you the disable notifications for phone calls in the pebble app:
 
-This should fix the issue. In case if Dialer for Pebble works inconsistently, make sure it runs in background both on your Pebble (Settings and then Background App) and on your phone.
+![](/images/dialer/1.png)
