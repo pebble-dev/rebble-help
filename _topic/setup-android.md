@@ -107,7 +107,7 @@ You should then see this page:
 
 ![](/images/setup/12.png)
 
-If you get back to the Pebble app and don't see that screen, go back to the browser and press *switch to Rebble* again.
+**If you get back to the Pebble app and don't see that screen, go back to the browser and press *switch to Rebble* again.**
 
 # You’re done!
 
@@ -115,4 +115,4 @@ If you get back to the Pebble app and don't see that screen, go back to the brow
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 
-If you want to use dicatation, or want a faster timeline sync, check out a Rebble subscription
+If you want to use dicatation, or want a faster timeline sync, check out a [Rebble subscription](/topic/subscription)
