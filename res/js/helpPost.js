@@ -82,7 +82,7 @@ function pageToStepByStep() {
 
 }
 function selectStep(stepID) {
-    if (stepID > steps.count) { return }
+    if (stepID >= steps.count) { stepID = steps.count-1 }
     var step = steps[stepID];
     //Humans are not 0 based
     stepID++
