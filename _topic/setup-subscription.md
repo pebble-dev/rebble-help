@@ -32,8 +32,9 @@ You should now see your subscription as active
 
 ![](/images/subscription/4.png)   
    
-Click the 'repeat the inital setup' link if you're on your phone.   
-If not, visit [boot.rebble.io](https://boot.rebble.io/) on your phone and re-run the setup procedure.
+If you're using your phone, click the 'Repeat inital setup' button and [re-run the boot process](/topic/boot).    
+
+If not, visit [boot.rebble.io](https://boot.rebble.io/) on your phone and [re-run the setup procedure](/topic/boot).
 
 # You’re done!
 
