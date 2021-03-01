@@ -9,58 +9,15 @@ permalink: /
 <div class="container">
     <div class="row">
       <h1> Welcome to the Rebble Help Center </h1>
-      <div class="lite">Search for a support topic, or pick from the most popular</div>
     </div>
     <div class="row">
       <br><br>
-
-      <div class="wide mt-5">
-        <!-- <center> -->
-          <input class="search matchtitle" id="searchbar" onchange="performSearch()" type="text" placeholder="Search for a topic"></input>
-        <!-- </center> -->
-      </div>
+      <div class="lite">DNS is working! Hello world</div>
     </div>
 
     <br>
 
-    <div class="row">
-      <div class="highlight-text lite" id="topicfilter">All topics:</div>
-    </div>
 
-
-    <div class="row mt-3">
-      <ul class="linklist">
-        <li class="searchitem" data-keywords="setup start started install rebble help first time inital"><a href="/topic/setup/"> Setting up Rebble Web Services </a></li>
-        {% for post in site.topic %}
-           {% if post.osSpecific != true or post.os == "choose" %}
-              {% if post.hideFromSearch != true %}
-                <li class="searchitem" data-keywords="{{ post.keywords }} {{ post.prompt | downcase }}"><a href="{{ post.url | prepend: site.baseurl }}"> {{ post.prompt }} </a></li>
-              {% endif %}
-            {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-
-
-  <div class="row hidden" id="nothingFound">
-    Nothing quite matches, try changing your search term.
-  </div>
-
-</div>
-
-{% if site.posts == 0 %}
-    <section>
-        <div class="text-content">
-            <p><em>There's nothing here (yet...)</em></p>
-            <p>
-                In the meantime, check out the <a href="https://discordapp.com/invite/aRUAYFN">
-                    Discord Server</a> or subscribe to the mailing list:
-            </p>
-            {% include mailinglist.html %}
-        </div>
-    </section>
-    <style> footer { display: none; } </style>
-{% endif %}
 
 <script src="{{ site.baseurl }}/res/mdb/js/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/res/mdb/js/bootstrap.min.js"></script>
