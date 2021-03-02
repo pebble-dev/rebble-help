@@ -13,11 +13,11 @@ os: ios
 
 Connect your Pebble to the plugged in USB charging cable. You really don’t want it to lose power in the middle of a firmware update! The watch powers up. Press the left button to dismiss the charging screen.
 
-# Install the app from the appstore
+# Install the app from the App Store
 
-On your iPhone, download the Pebble app from the appstore:
+On your iPhone, download the Pebble app from the App Store:
 
-[Appstore Link](https://itunes.apple.com/en/app/pebble/id957997620?mt=8)
+[App Store Link](https://itunes.apple.com/en/app/pebble/id957997620?mt=8)
 
 <notmobile>
 

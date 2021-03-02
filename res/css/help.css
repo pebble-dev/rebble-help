@@ -107,7 +107,6 @@ h1 {
   border-radius: 0px;
   border: 5px solid black;
   padding: 10px;
-  padding-right: 50px;
   font-size: 2rem;
   width: inherit;
   max-width: 100%;
@@ -185,6 +184,12 @@ qr img {
   }
   p {
     font-size: 1.2rem;
+  }
+  .question {
+    font-size: 1.3rem;
+  }
+  .icon-huge {
+    font-size: 5rem;
   }
 }
 
