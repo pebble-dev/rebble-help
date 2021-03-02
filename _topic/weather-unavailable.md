@@ -17,7 +17,7 @@ If you think you have a subscription but these features still aren't working, pr
 
 # Check your account
 
-First, visit [auth.rebble.io/account](auth.rebble.io/account) and look at the line Voice / Weather subscription.    
+First, visit [auth.rebble.io/account](https://auth.rebble.io/account) and look at the line Voice / Weather subscription.    
 
 ![](/images/misc/activesub.png)
 
