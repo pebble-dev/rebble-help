@@ -14,10 +14,11 @@
               <div class="helpquote dark">
                 {% if page.prompt %}
                 <i class="fas fa-angle-double-right"></i> {{ page.prompt }}
-                    
+                    {% if page.os != "choose" %}
                     <div>
                         <i class="fas fa-walking" id="stepsman"></i> <span id="stepStatus"></span>
                     </div>
+                    {% endif %}
                     
                 {% endif %}
               </div>
