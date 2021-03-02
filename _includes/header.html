@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar underline navbar-expand-lg navbar-dark default-color">
-        <a class="navbar-brand" href="#">{{ site.title }}
+      <a class="navbar-brand" href="{% if page.url == "/" %} https://rebble.io {% else %}/{% endif %}">{{ site.title }}
     
     
           <span id="rebblewatch"></span>
@@ -37,9 +37,6 @@
                 <a class="nav-link" href="{{ page.link }}?viewall=false"> <i class="fas fa-shoe-prints"></i> Step-by-step</a>
             </li>
             {% endif %}
-            <li class="nav-item">
-              <a class="nav-link" href="{% if page.url == "/" %} https://rebble.io {% else %}/{% endif %}"> <i class="fas fa-home"></i> Home </a>
-            </li>
           </ul>
         </div>
       </nav>

@@ -179,6 +179,13 @@ qr img {
     clear: both;
     display: none;
   }
+  li {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+  p {
+    font-size: 1.2rem;
+  }
 }
 
 .hidden {
