@@ -63,7 +63,7 @@ header {
 .option-section .col-sm {
     margin-bottom: 40px;
 }
-.option-section .col-sm:hover {
+.option-section .col-6:hover {
   background-color: rgba(0,0,0,0.1);
   cursor: pointer;
 }
