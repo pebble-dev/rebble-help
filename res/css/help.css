@@ -195,3 +195,61 @@ img[alt=noborder] {
 strong {
   font-weight: bolder;
 }
+
+
+
+
+footer {
+  display: flex;
+  flex-flow: column;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 2rem;
+  margin: -1rem 0 0;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  position: relative;
+}
+.footer-icon {
+  height: 30px;
+  width: 30px;
+  margin-left: 10px;
+}
+div.email-signup {
+  text-align: center;
+  margin: 1rem 0 .5rem;
+}
+div.email-signup input[type="email"] {
+  margin: 0;
+  padding: 0.6rem;
+  line-height: normal;
+  font-size: 0.8em;
+  border-radius: 0;
+      border-top-left-radius: 0px;
+      border-bottom-left-radius: 0px;
+  border: 1px solid #777;
+      border-right-color: rgb(119, 119, 119);
+      border-right-style: solid;
+      border-right-width: 1px;
+  border-right: none;
+  border-top-left-radius: 0.2em;
+  border-bottom-left-radius: 0.2em;
+}
+div.email-signup input[type="submit"] {
+    margin: 0;
+    padding: 0.6rem;
+    line-height: normal;
+    font-size: 0.8em;
+    border-radius: 0;
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    background: #D40 !important;
+    cursor: pointer;
+    color: #fff;
+    border: 1px solid #910;
+    border-top-right-radius: 0.2em;
+    border-bottom-right-radius: 0.2em;
+    -webkit-appearance: none;
+
+}

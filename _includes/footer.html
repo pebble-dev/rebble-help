@@ -1,12 +1,11 @@
-<footer>
+<footer class="mt-5">
     <div class="text-content">
-        <p>Join us on the <a href="https://discordapp.com/invite/aRUAYFN">
-            officially unofficial Pebble Discord server!</a></p>
+        <p><a href="/contributing/">
+            Contribute a support topic</a></p>
     </div>
     <div class="text-content">
       {% for item in site.data.socials %}
         <a href="{{ item.url }}"><img class="footer-icon" alt="icon-{{ item.name }}" src="/images/social-icons/{{ item.icon }}"></img></a>
       {% endfor %}
     </div>
-    {% include mailinglist.html %}
 </footer>
