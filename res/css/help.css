@@ -91,6 +91,7 @@ h1 {
 }
 .linklist {
   padding-left: 0;
+  background-color: var(--color-background);
 }
 .linklist a {
   color: inherit;
@@ -196,9 +197,6 @@ strong {
   font-weight: bolder;
 }
 
-
-
-
 footer {
   display: flex;
   flex-flow: column;
@@ -206,6 +204,7 @@ footer {
   padding-right: 15px;
   padding-bottom: 2rem;
   margin: -1rem 0 0;
+  padding-top: 60px;
   align-items: center;
   text-align: center;
   justify-content: center;
