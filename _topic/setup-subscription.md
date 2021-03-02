@@ -38,7 +38,7 @@ If not, visit [boot.rebble.io](https://boot.rebble.io/) on your phone and [re-ru
 
 # You’re done!
 
-![](/images/setup/13.png)
+![noborder](/images/setup/13.png)
 
 You’re done! You're now subscribed to Rebble! Dictation will work, and you should see the weather app in your app locker too.    
     

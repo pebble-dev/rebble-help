@@ -11,7 +11,7 @@ osSpecific: false
 
 # Getting Dictation and weather pins 
 
-![](/images/misc/voice.png)
+![noborder](/images/misc/voice.png)
 
 Rebble offers a free tier which includes the appstore, timeline (with a 3 hours sync period), and everything else to get the basics up and running.   
     

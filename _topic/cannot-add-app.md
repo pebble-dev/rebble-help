@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Locker Sync Issue"
-prompt: "Appstore says my app is added, but it's not there"
+prompt: "Appstore says my app is added, but it's not there."
 keywords: "locker sync not available there installed unavailable"
 date:   2021-02-01 07:14:42
 author: "Will0"
