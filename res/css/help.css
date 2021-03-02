@@ -72,6 +72,9 @@ h1 {
   font-size: 2rem;
   font-weight: 400;
 }
+.hugeText {
+  font-size: 3rem;
+}
 .question {
   font-size: 3rem;
 }
@@ -190,6 +193,9 @@ qr img {
   }
   .icon-huge {
     font-size: 5rem;
+  }
+  .hugeText {
+    font-size: 2rem;
   }
 }
 
