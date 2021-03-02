@@ -36,6 +36,7 @@ function findGetParameter(parameterName) {
 function pageToStepByStep() {
 
     $('article a').attr("target", "_blank");
+    $('.sametab').attr("target", "");
 
     var numOfSteps = 0;
     $("h1").each(function(index) {
