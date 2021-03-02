@@ -104,7 +104,7 @@ For example:
 
     # Step one
     This is the first step. It will have '1. ' prepended next to it's title. 
-    You can turn this off for the first step (see previous section)
+    You can turn this off for the first step (see 'hideFirstStepNumber')
 
     # Step two
     This is the second step. The user will have to press 'next' once to get here.
