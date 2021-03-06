@@ -15,9 +15,9 @@ With the OG or Pebble Steel, you may see an error where the update screen shows 
 To resolve this, you need a device with a Pebble app that has not been switched to Rebble. 
 You can
 - use another device
-- [remove Rebble from the Pebble app](/topic/unrebble/) 
+- [remove Rebble from the Pebble app](/unrebble/) 
 - Uninstall the Pebble app from your phone and reinstall it.
 
 Once you have done one of the above options, when you pair the watch again it should now complete the firmware upgrade.
 
-After that, you can [start using Rebble Web Services again](/topic/boot/)
+After that, you can [start using Rebble Web Services again](/boot/)

@@ -30,4 +30,4 @@ What you *do* get is:
 
 - A warm fuzzy feeling for supporting the project
 
-If you wish to setup Rebble subscription, [click here for a step-by-step guide](/topic/setup-subscription)
+If you wish to setup Rebble subscription, [click here for a step-by-step guide](/setup-subscription)

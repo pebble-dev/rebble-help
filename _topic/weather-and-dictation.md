@@ -17,4 +17,4 @@ Rebble offers a free tier which includes the appstore, timeline (with a 3 hours 
     
 Dictation (Voice replies) and weather for the built-in weather app require a rebble subscription, which costs $3/month.   
 
-To find out more, [click here](/topic/subscription/).    
+To find out more, [click here](/subscription/).    

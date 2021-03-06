@@ -43,6 +43,6 @@ At the bottom of the store page you'll see an option '*download pbw*'. Click it.
 
 Once the .pbw file downloads, find the file and open it with the Pebble app.
 
-If you don't get the option to open the file with the Pebble app, [click here](/topic/sideloading/)
+If you don't get the option to open the file with the Pebble app, [click here](/sideloading/)
 
 The app is now installed and no longer out of sync with Rebble.

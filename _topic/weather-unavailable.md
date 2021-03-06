@@ -11,7 +11,7 @@ osSpecific: false
 
 # Weather or Dictation is unavailable
 
-Dictation and Weather for the Pebble weather app require a [Rebble subscription](/topic/subscription).   
+Dictation and Weather for the Pebble weather app require a [Rebble subscription](/subscription).   
 
 If you think you have a subscription but these features still aren't working, press next.
 
@@ -28,6 +28,6 @@ If it's 'Expired', the credit card used while subscribing might be invalid. You 
 If it’s 'Not Active', you might be signed in with a different account than when you first subscribed.   
 Log out, and sign in at Rebble account with the right account. Then, check your account and payment info again.
 
-If you start a new subscription, you should then [re-run the boot process](/topic/boot).
+If you start a new subscription, you should then [re-run the boot process](/boot).
 
 If you require further support, please contact rebble at [support@rebble.io](mailto:support@rebble.io), or ask on the [Rebble Discord](https://rebble.io/discord)

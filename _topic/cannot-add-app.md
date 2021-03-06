@@ -12,4 +12,4 @@ osSpecific: false
 
 Sometimes, the locker can get out of sync with reality. Although this situation should resolve itself over time, it’s easy to fix.
 
-[Click here to view the solution](/topic/lockerSync)
+[Click here to view the solution](/lockerSync)

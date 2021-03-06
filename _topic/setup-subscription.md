@@ -10,7 +10,7 @@ osSpecific: false
 
 # Visit your Rebble account page
 
-To purchase a [Rebble subscription](/topic/subscription), first go to [auth.rebble.io/account](https://auth.rebble.io/account) on your phone or computer. Log in.
+To purchase a [Rebble subscription](/subscription), first go to [auth.rebble.io/account](https://auth.rebble.io/account) on your phone or computer. Log in.
 
 **Make sure you signed in with the same account you used when you first made the switch to Rebble!**
 
@@ -32,9 +32,9 @@ You should now see your subscription as active
 
 ![](/images/subscription/4.png)   
    
-If you're using your phone, click the 'Repeat inital setup' button and [re-run the boot process](/topic/boot).    
+If you're using your phone, click the 'Repeat inital setup' button and [re-run the boot process](/boot).    
 
-If not, visit [boot.rebble.io](https://boot.rebble.io/) on your phone and [re-run the setup procedure](/topic/boot).
+If not, visit [boot.rebble.io](https://boot.rebble.io/) on your phone and [re-run the setup procedure](/boot).
 
 # You’re done!
 

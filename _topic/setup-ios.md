@@ -159,4 +159,4 @@ Press "It's Rebble Time"
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 
-If you want to use dicatation, or want a faster timeline sync, check out a [Rebble subscription](/topic/subscription)
+If you want to use dicatation, or want a faster timeline sync, check out a [Rebble subscription](/subscription)

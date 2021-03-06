@@ -69,7 +69,7 @@ If you're new to markdown, it's useful to have [this cheat sheet](https://github
 
 ## Including images
 
-If you want to include images in your topic, you should put the image files in the 'image' folder, inside a subfolder you make for the support topic.    
+If you want to include images in your topic, you should put the image files in the 'images' folder, inside a subfolder you make for the support topic.    
 
 I.e. If you're writing about 'Pebble 2 hardware', make a folder /images/p2hardware/, and put the image in there.   
 You can then include your image in the topic with the syntax:   
