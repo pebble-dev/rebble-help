@@ -38,6 +38,12 @@ function pageToStepByStep() {
     $('article a').attr("target", "_blank");
     $('.sametab').attr("target", "");
 
+    $("a").each(function(index, elm) {
+        if ($(elm).attr("href").substr(0,1) == "/") {
+            $(elm).attr("target", "");
+        }
+    });
+
     var numOfSteps = 0;
     $("h1").each(function(index) {
 
