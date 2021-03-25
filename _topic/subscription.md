@@ -28,8 +28,8 @@ What you *do* get is:
 
 - Weather info on the built-in weather app, and Timeline
 
-- A faster (30 minute) Timeline sync period
+- A faster (30 minute) Timeline sync period, compared to the default of 3 hours
 
-- A warm fuzzy feeling for supporting the project
+- A warm fuzzy feeling for supporting the project <3
 
 If you wish to setup a Rebble subscription, [click here for a step-by-step guide!](/setup-subscription)
