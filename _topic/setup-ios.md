@@ -11,7 +11,7 @@ os: ios
 
 # Connect your Pebble to its charger   
 
-Connect your Pebble to the plugged in USB charging cable. You really don’t want it to lose power in the middle of a firmware update! The watch powers up. Press the left button to dismiss the charging screen.
+Connect your Pebble to the plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the button on the left of your Pebble smartwatch to dismiss the charging screen.
 
 # Install the app from the App Store
 
@@ -29,21 +29,21 @@ or via this QR code:
    
 # Open the Pebble app
 
-If prompted, allow the Pebble app to turn on Bluetooth
+If prompted, allow the Pebble app to turn on Bluetooth.
 
 ![](/images/ios/setup1.png)
 
 # Skip the sign in page
 
-The old sign in page (now blank) will be shown.   
+The old sign in page (now blank) should be shown.   
 
 ![](/images/ios/setup2.png)
 
-Press skip in the top left
+Press **SKIP** in the top left.
 
 # Choose dictation language
 
-Choose your dictation language
+Choose your dictation language. (This only works if you sign up for a [Rebble subscription.](/subscription))
 
 ![](/images/ios/setup3.png)
 
@@ -51,17 +51,19 @@ Choose your dictation language
 
 ![](/images/ios/setup4.png)
 
-iOS the opens the accessory pairing screen. Wait a moment and select your Pebble
+iOS then should open the accessory pairing screen. Wait a moment, then select your Pebble.
 
 ![](/images/ios/setup5.png)
 
 # Wait for any updates
 
-If required, your watch will now update, wait for this to be complete.
+If required, your watch will now update. Just wait for this to complete, then go to the next step.
 
 ![](/images/ios/setup7.png)
 
 # Select the dictation language
+
+Choose your dictation language. (This only works if you sign up for a [Rebble subscription.](/subscription))
 
 ![](/images/ios/setup8.png)
 
@@ -73,19 +75,19 @@ Allow the Pebble app to pair with your watch in Low Energy (LE) mode.
 
 # Enable push notifications
 
-Enable notifications
+Enable notifications to see notifications on your Pebble smartwatch.
 
 ![](/images/ios/setup12.png)
 
 # Allow location access
 
-![](/images/ios/setup13.png)
+Press 'Allow Once'. You'll need to change this to 'Always' later for certain Pebble functionality to work, like local weather.
 
-Press 'Allow Once'. You'll need to change this to 'Always' later for certain Pebble functionality to work.
+![](/images/ios/setup13.png)
 
 # Setup calendars and Pebble Health
 
-Run through the Calendar and Pebble Health screens, enabling these is optional
+Run through the Calendar and Pebble Health screens. Note that enabling these is optional, but recommended.
 
 ![](/images/ios/setup14.png)
 
@@ -93,7 +95,7 @@ Run through the Calendar and Pebble Health screens, enabling these is optional
 
 # Finish configuring your Pebble
 
-Once you get to this screen, you've finished part 1 - connecting your Pebble.   
+Once you get to this screen, you've finished part 1 - connecting your Pebble!  
    
 ![](/images/ios/setup16.png)   
    
@@ -101,8 +103,9 @@ All that's left to do now is set the location permission and connect it to Rebbl
 
 # Allow location
 
-Open iPhone settings and search for 'location'. Open the location setting under 'Privacy'.
-A list of your apps should load. Find the Pebble app.
+Open your iPhone's settings and look for "Privacy." Then, open the "Location Services" section.
+
+A list of your apps should load. Find the Pebble app here.
 
 Set the location permission to 'Always'. This is required for things like watchface weather.
 
@@ -110,7 +113,7 @@ Set the location permission to 'Always'. This is required for things like watchf
 
 # Open auth.rebble.io
 
-On the phone, open a decent browser (like Chrome), and go to auth.rebble.io.
+On the phone, open a decent browser (like Safari), and go to auth.rebble.io.
 
 <notmobile>
     <qr url="https://auth.rebble.io" />
@@ -123,13 +126,13 @@ You are greeted with a number of ways to sign in.
    
 Choose one and sign in. *Remember your sign in credentials!*
 
-You will return to the Rebble site, and are greeted with *You’re all set!*   
+You'll be returned to the Rebble website, and be greeted with *You're all set!*
 
 # Press 'Switch to Rebble'
 
-Read the page, then tap the switch to Rebble button. If you get a prompt, press 'Okay'.
+Read the page, then tap the Switch to Rebble button. If you get a prompt, accept it.
 
-The Pebble iOS app will then open. If you get the 'Configuration change' prompt, press 'Change'.
+The Pebble iOS app should open. If you get the 'Configuration change' prompt, press 'Change'.
 
 ![](/images/ios/boot1.png)
    
@@ -139,11 +142,11 @@ The Pebble iOS app will then open. If you get the 'Configuration change' prompt,
 
 After waiting, tap the yellow exclamation mark in the top left of the screen ![icon](/images/ios/boot4.png)
 
-You'll see this menu:
+You should see this menu.
 
 ![](/images/ios/boot2.png)
 
-Press Log in. 
+Press "Log in."
 
 # You're done
 
@@ -151,12 +154,12 @@ You should now see this screen:
 
 ![](/images/ios/boot3.png).
 
-Press "It's Rebble Time"
+Press **IT'S REBBLE TIME**.
 
 # You’re done!
 
 ![noborder](/images/setup/13.png)
 
-You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
+You’re done! If you'd like to, tap the big “+” in the lower right corner and find and install watchfaces you like from the Rebble appstore.
 
-If you want to use dicatation, or want a faster timeline sync, check out a [Rebble subscription](/subscription)
+If you want to use dictation, want weather in the included Weather app, want weather in your Timeline, and want to support us, check out our $3/month [Rebble subscription!](/subscription)
