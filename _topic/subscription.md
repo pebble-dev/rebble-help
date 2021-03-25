@@ -28,7 +28,7 @@ What you *do* get is:
 
 - Weather info on the built-in weather app, and Timeline
 
-- A faster (30 minute) timeline sync period
+- A faster (30 minute) Timeline sync period
 
 - A warm fuzzy feeling for supporting the project
 
