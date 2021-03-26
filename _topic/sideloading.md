@@ -31,4 +31,4 @@ Google Play QR Code:
    
 The app is also available on [F-Droid](https://f-droid.org/en/packages/io.rebble.charon/) and [GitHub](https://github.com/pebble-dev/rebble-sideloader/releases). 
     
-Once installed, you can now open .pbw files with *Sideloader by Rebble*, which will in turn open the app with Pebble!
+Once installed, you can now open .pbw files with *Sideloader by Rebble*, which will in turn open the app with the Pebble app!
