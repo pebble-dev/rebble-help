@@ -21,13 +21,13 @@ First, visit [auth.rebble.io/account](https://auth.rebble.io/account) and look a
 
 ![](/images/misc/activesub.png)
 
-If it’s 'Active', re-run the boot process.
+If it displays 'Active', [re-run the boot process](/boot).
 
-If it's 'Expired', the credit card used while subscribing might be invalid. You can simply subscribe again.  
+If it displays 'Expired', the credit card used while subscribing might be invalid. You can simply [subscribe again](/subscription) to fix this issue.  
 
 If it’s 'Not Active', you might be signed in with a different account than when you first subscribed.   
-Log out, and sign in at Rebble account with the right account. Then, check your account and payment info again.
+Log out, and sign in at Rebble with the right account. Then, check your account and payment info again.
 
 If you start a new subscription, you should then [re-run the boot process](/boot).
 
-If you require further support, please contact rebble at [support@rebble.io](mailto:support@rebble.io), or ask on the [Rebble Discord](https://rebble.io/discord)
+If you require further support, please contact The Rebble Alliance at [support@rebble.io](mailto:support@rebble.io), or ask on the [Rebble Discord server](https://rebble.io/discord). See ya there! :)
