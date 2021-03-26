@@ -23,7 +23,7 @@ Once you're there, continue to the next step.
 
 The first 4 fields to fill will be the basic information about your app.  
    
-Fields marked with an asterix are required, but you already knew that, didn't you? :)
+Fields marked with an asterisk are required, but you already knew that, didn't you? :)
 
 ![](/images/submit/1.png)
 
