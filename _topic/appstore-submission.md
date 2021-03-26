@@ -11,19 +11,19 @@ osSpecific: false
 
 # Publish an app to the Rebble appstore
 
-So you've written a shiny new Pebble app or watchface and want to get it onto the store? Great! Here's how.   
+So you've written a shiny new Pebble app or watchface and want to get it onto the store?   
    
-First thing you'll need to do is build your app using `pebble build`, and make sure you've got the .pbw file.     
+First thing you need to do is build your app using `pebble build`, and make sure you've got the .pbw file.     
     
-When you've got your .pbw ready, head on over to [rebble.io/submit](https://rebble.io/submit)   
+When you have your .pbw ready, head on over to [rebble.io/submit](https://rebble.io/submit)   
 
 Once you're there, continue to the next step.
 
 # Fill out the base information
 
-The first 4 fields to fill will be the basic information about your app.  
+The first 4 fields to fill are the basic information about your app.  
    
-Fields marked with an asterisk are required, but you already knew that, didn't you? :)
+Fields marked with an asterisk are required, but you already knew that.
 
 ![](/images/submit/1.png)
 
@@ -37,23 +37,23 @@ Fields marked with an asterisk are required, but you already knew that, didn't y
 
 # Select app or face
 
-Here, you'll choose whether what you're uploading is a watchapp or watchface. 
+Select 'Watchface' or 'Watch app' depending on the type of app you're uploading.
 
 ![](/images/submit/2.png)
 
-If it's a watchapp, you'll also be asked to pick its category. Here's the breakdown from the [developer document](https://developer.rebble.io/developer.pebble.com/guides/appstore-publishing/publishing-an-app/index.html):
+If it's a watchapp, you'll also be asked to pick its category. Here's the breakdown from the [developer documentation](https://developer.rebble.io/developer.pebble.com/guides/appstore-publishing/publishing-an-app/index.html):
 
 ![](/images/submit/3.png)
 
 # App descriptions
 
-Next, you'll need to fill out the app descriptions.
+Next you need to fill out the app descriptions.
 
 ![](/images/submit/4.png)
 
-- **App description** is the description of your app or face
+- **App description** is the description of your app or face.
 
-- **Release notes** should describe what has changed in this update. If it's the first release, just write 'hello world' or something :)
+- **Release notes** should describe what has changed in this update. If it's the first release, just write 'hello world' or something.
 
 # Icons
 
@@ -65,7 +65,7 @@ If you're submitting a watchface, you can skip this next step.
 
 # Screenshots
 
-Next, you'll be asked to submit screenshots of your app or face.    
+Next you'll be asked to submit screenshots of your app or face.    
 This is what is displayed on the watch in the appstore.   
 You must submit at least 1 screenshot.
 
@@ -90,11 +90,11 @@ Banners are required for apps, and optional for watchfaces.
 
 # Upload your .pbw
 
-Next, you'll need to upload the .pbw for your watchapp or face.
+Now you need to upload the .pbw for your watchapp or face.
 
 ![](/images/submit/9.png)   
 
-Once you're done with that, press "I'm ready, zip me up!"
+Once that's done, press "I'm ready, zip me up!".
 
 The tool will then create a .zip app bundle and download it to your computer.
 
@@ -104,6 +104,6 @@ The tool will then create a .zip app bundle and download it to your computer.
 
 All that's left now is to email it to [support@rebble.io](mailto:support@rebble.io) so it can be uploaded to the appstore!    
 
-This normally happens pretty quickly, but can sometimes take longer. You will receive an email when it's live, how exciting! :D
+This normally happens pretty quickly, but can sometimes take longer. You will receive an email when it's live, how exciting!
 
-For help with the submission process or app development, check out the [Rebble Alliance Discord server.](https://rebble.io/discord) See you there!
+For help with the submission process or app development, check out the [Rebble Discord server.](https://rebble.io/discord).

@@ -10,7 +10,7 @@ osSpecific: false
 
 # Visit your Rebble account page
 
-To purchase a [Rebble subscription](/subscription), first go to [auth.rebble.io/account](https://auth.rebble.io/account) on your phone or computer. Be sure to log in.
+To purchase a [Rebble subscription](/subscription), first go to [auth.rebble.io/account](https://auth.rebble.io/account) on your phone or computer. Log in.
 
 **Make sure you signed in with the same account you used when you first made the switch to Rebble!**
 

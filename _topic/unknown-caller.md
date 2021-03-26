@@ -17,6 +17,6 @@ The solution is to install [Dialer for Pebble](https://apps.rebble.io/en_US/appl
 
 Follow the instructions in the Dialer for Pebble app to make it work properly.
 
-Make sure you the disable notifications for phone calls in the Pebble app, too:
+Make sure you the disable notifications for phone calls in the Pebble app:
 
 ![](/images/dialer/1.png)

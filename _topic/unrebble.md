@@ -8,7 +8,7 @@ author: "Will0"
 osSpecific: false
 ---
 
-# "Unrebble" your Pebble app
+# Unrebble your Pebble
 
 If you want to keep your Pebble app installed, but remove Rebble Web Services, you can do so with the following steps:
 
@@ -22,4 +22,4 @@ or by scanning this QR code:
 
 Click the 'remove rebble' button.
 
-Once you're done, Rebble Web Services should be removed from the Pebble app. We're sorry to see you go! :(
+Rebble Web Services will be removed from the Pebble app.

@@ -15,6 +15,6 @@ osSpecific: false
 
 Rebble offers a free tier which includes the appstore, timeline (with a 3 hour sync period), and everything else to get the basics up and running.   
     
-Dictation (used for voice replies and some apps) and weather for the built-in Weather app require a Rebble subscription, which costs $3/month. You'll help keep the Rebble project going, too! :)   
+Dictation (used for voice replies and some apps) and weather for the built-in Weather app require a Rebble subscription, which costs $3/month. You'll also help keep Rebble running! :)   
 
 To find out more, [click here](/subscription/).    

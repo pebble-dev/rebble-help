@@ -15,9 +15,7 @@ os: android
 Pebble watchapps and faces can be downloaded as .pbw files, and 'sideloaded' to the Pebble app.   
 You just download the .pbw file, open it in your phone's file manager, and it will open with the Pebble app.
     
-On some versions of Android, you will not see the option to open the .pbw file with the Pebble app. To fix this, download the "Sideload Helper by Rebble" app. 
-
-![icon](/images/sideloading/charon.png)   
+On some versions of Android, you will not see the option to open the .pbw file with the Pebble app. To fix this, download our app 'Sideload Helper by Rebble'. ![icon](/images/sideloading/charon.png)   
     
 [Google Play Store Link](https://rebble.io/charon/)
 
