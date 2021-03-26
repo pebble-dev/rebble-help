@@ -3,15 +3,14 @@ layout: post
 title: "Setup Rebble Web Services"
 prompt: "I need help setting up Rebble Web Services"
 date:   2021-02-01 07:14:42
-author: "Will0"
-
+author: "Will0, lolrepeatlol"
 osSpecific: true
 os: android
 ---
 
-# Connect your Pebble to its charger   
+# Connect your Pebble to it's charger
 
-Connect your Pebble to the plugged in USB charging cable. You really don’t want it to lose power in the middle of a firmware update! The watch powers up. Press the left button to dismiss the charging screen.
+Connect your Pebble to a plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
 
 # Download the Pebble APK
 
@@ -29,7 +28,7 @@ or via this QR code:
    
 # Install the APK
 
-Once you've downloaded the .apk file, open it on your phone by selecting it, then selecting *install*:   
+Once you've downloaded the .apk file, open it on your phone by selecting it, then selecting **Install**:   
 
 ![](/images/setup/3.png)
 
@@ -37,15 +36,28 @@ You might be prompted with the following screen:
 
 ![](/images/setup/1.png)
 
-If so, click through to settings and enable installation of apps from unknown sources for your file manager. 
+If so, click through to Settings and select "Allow from this source" to enable installation of apps from unknown sources for your preferred file manager. 
 
 ![](/images/setup/2.png)
 
-This will allow the Pebble app to be sideloaded. You can revert this settings the Pebble app is installed if you like
+This will allow the official Pebble app to be sideloaded. You can revert this setting when the Pebble app is installed if you'd like!
+
+
+**On earlier versions of Android (7 or below), the permissions step will be slightly different**. 
+
+If you're running Android 7 or below:
+
+- Once you've downloaded the .apk file, open Settings.
+
+- Tap "Lock screen and Security," or "Security."
+
+- Tap "Allow installation from unknown sources," "Unknown sources," or a similar option. Then, read the prompt and tap **OK**.
+
+- Go back to the downloaded Pebble APK file in your file manager, and proceed with the installation.
 
 # Open the Pebble app
 
-You’ll be greeted by a Pebble Account page. Simply tap Skip login twice to continue.
+You’ll be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to continue.
 
 ![](/images/setup/4.png)
 
@@ -75,31 +87,29 @@ Once you get to this screen, you've finished part 1 - connecting your Pebble.
    
 ![](/images/setup/9.png)   
    
-
 All that's left to do now is connect it to Rebble Web Services.
 
 # Open auth.rebble.io
 
-On the phone, open a decent browser (like Chrome), and go to auth.rebble.io.
+On the phone, open a decent browser (like Chrome or Firefox), and go to [auth.rebble.io](https://auth.rebble.io).
 
 <notmobile>
     <qr url="https://auth.rebble.io" />
 </notmobile>
 
    
-You are greeted with a number of ways to sign in.    
+You will be greeted with a number of ways to sign in.    
 
 ![](/images/setup/10.png)   
 
 Choose one and sign in. *Remember your sign in credentials!*
 
-You will return to the Rebble site, and are greeted with *You’re all set!*   
-
+You will be returned to the Rebble site and be greeted with 'You’re all set!'   
 
 # Switch to Rebble 
 
-Read the page, then tap the switch to Rebble button.   
-The browser will then ask if you want to open it with Pebble.
+Read the page, then tap the **Switch to Rebble** button.   
+The browser will then ask if you want to open it with the Pebble app.
 
 ![](/images/setup/11.png)
 
@@ -115,4 +125,4 @@ You should then see this page:
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 
-If you want to use dicatation, or want a faster timeline sync, check out a [Rebble subscription](/subscription)
+If you want to use dictation, get weather pines in your Timeline, and have a faster Timeline sync periodl, check out a [Rebble subscription](/subscription)

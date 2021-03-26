@@ -22,4 +22,4 @@ or by scanning this QR code:
 
 Click the 'remove rebble' button.
 
-You are no longer using Rebble Web Services. Goodbye.
+Rebble Web Services will be removed from the Pebble app.

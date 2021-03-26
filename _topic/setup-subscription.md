@@ -22,13 +22,13 @@ Choose your plan.
 
 ![](/images/subscription/2.png)
 
-You will then see the stripe prompt, enter your card details.   
+You will then see the prompt to enter your credit card details. (Payments are processed by Stripe).   
 
 ![](/images/subscription/3.png)
 
 # Activate subscription
 
-You should now see your subscription as active
+You should now see your subscription as active!
 
 ![](/images/subscription/4.png)   
    
