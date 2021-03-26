@@ -11,11 +11,11 @@ osSpecific: false
 
 # Installing the Pebble SDK
 
-The Pebble SDK allows you to write apps and watchfaces for Pebble. There are *many* installation methods.   
+The Pebble SDK allows you to write apps and watchfaces for Pebble. You'll need a desktop or laptop for this, and there are *many* installation methods.   
    
 The recomended approach is a native installation:    
 
-If installing on Ubuntu or debian-based linux, [follow this guide](https://willow.systems/blog/pebble-sdk-installation-guide/).    
+If installing on Ubuntu or another Debian-based Linux distribution, [follow this guide](https://willow.systems/blog/pebble-sdk-installation-guide/).    
 
 If installing on Arch Linux, [follow this guide](https://github.com/pebble-dev/RebbleOS/blob/master/docs/arch_build.md).    
 
@@ -31,7 +31,7 @@ If you're using NixOS, you can install via the [nix package](https://github.com/
 
 ## Docker image
 
-You can also install via the [docker image](https://hub.docker.com/r/rebble/pebble-sdk), though getting the emulator to work is an involved, undocumented procedure.
+You can also install via the [Docker image](https://hub.docker.com/r/rebble/pebble-sdk), though getting the emulator to work is an involved, undocumented procedure.
 
 
 For support, assistance, or general questions, come and talk to other Pebble developers on the [Rebble discord](https://rebble.io/discord).
