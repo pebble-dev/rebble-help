@@ -34,4 +34,4 @@ If you're using NixOS, you can install via the [nix package](https://github.com/
 You can also install via the [Docker image](https://hub.docker.com/r/rebble/pebble-sdk), though getting the emulator to work is an involved, undocumented procedure.
 
 
-For support, assistance, or general questions, come and talk to other Pebble developers on the [Rebble discord](https://rebble.io/discord).
+For support, assistance, or general questions, come and talk to other Pebble developers on the [Rebble Discord server](https://rebble.io/discord). See ya there! :)
