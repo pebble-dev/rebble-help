@@ -25,7 +25,7 @@ If it displays 'Active', [re-run the boot process](/boot).
 
 If it displays 'Expired', the credit card used while subscribing might be invalid. You can simply [subscribe again](/subscription) to fix this issue.  
 
-If it’s 'Not Active', you might be signed in with a different account than when you first subscribed.   
+If it displays 'Not Active', you might be signed in with a different account than when you first subscribed.   
 Log out, and sign in at Rebble with the right account. Then, check your account and payment info again.
 
 If you start a new subscription, you should then [re-run the boot process](/boot).
