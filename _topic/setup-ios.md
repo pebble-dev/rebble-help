@@ -113,7 +113,7 @@ Set the location permission to 'Always'. This is required for things like watchf
 
 # Open auth.rebble.io
 
-On the phone, open a decent browser (like Safari), and go to auth.rebble.io.
+On the phone, open a decent browser (like Safari, Chrome, or Firefox), and go to auth.rebble.io.
 
 <notmobile>
     <qr url="https://auth.rebble.io" />
