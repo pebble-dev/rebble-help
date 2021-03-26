@@ -17,7 +17,7 @@ If your apps appear installed in the Rebble store, but aren't actually in your a
 Uninstalling and reinstalling the Pebble app fixes this issue, but there are two less drastic fixes to attempt first.
 
 
-Firstly, reboot your phone.   
+First, try rebooting your phone. This often resolves the issue.
     
 If that does not work, continue to the next step.
 
@@ -37,7 +37,7 @@ Search for the app or watchface that is out of sync.
 
 # Download the .pbw
 
-At the bottom of the store page you'll see an option '*download pbw*'. Click it.
+At the bottom of the store page you'll see an option 'download pbw'. Tap it.
 
 ![](/images/lockersync/3.png)  
 
@@ -45,4 +45,4 @@ Once the .pbw file downloads, find the file and open it with the Pebble app.
 
 If you don't get the option to open the file with the Pebble app, [click here](/sideloading/)
 
-The app is now installed and no longer out of sync with Rebble.
+The app will now be installed and no longer out of sync with Rebble.

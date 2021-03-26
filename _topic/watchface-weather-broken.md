@@ -14,4 +14,4 @@ Unfortunately, some often used weather services have folded, or changed their AP
 
 See if the watchface can switch API, or choose another watchface. Please note that this is unrelated to the Rebble Weather and Dictation services plan.
 
-For more help on this topic, visit the [rebble discord](https://rebble.io/discord)
+For more help on this topic, visit the [Rebble Discord](https://rebble.io/discord).
