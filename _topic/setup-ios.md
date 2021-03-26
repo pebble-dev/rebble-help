@@ -119,7 +119,7 @@ On the phone, open a decent browser (like Safari, Chrome, or Firefox), and go to
     <qr url="https://auth.rebble.io" />
 </notmobile>
 
-You are greeted with a number of ways to sign in.   
+You should be greeted with a number of ways to sign in.   
      
      
 ![](/images/ios/setup18.png)   
