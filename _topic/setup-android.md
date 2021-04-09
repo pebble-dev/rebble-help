@@ -125,4 +125,4 @@ You should then see this page:
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 
-If you want to use dictation, get weather pines in your Timeline, and have a faster Timeline sync periodl, check out a [Rebble subscription](/subscription)
+If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
