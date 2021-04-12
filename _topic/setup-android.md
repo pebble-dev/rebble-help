@@ -71,7 +71,7 @@ You’ll be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to
 
 The app starts looking for nearby Pebbles. It should shortly see your Pebble, as Pebble xxxx. This same string can be seen on the Pebble, so you know the phone sees the right watch. Tap it.   
 
-If the Pebble doesn’t appear and you’re on Android 10, go to the bluetooth settings page of the phone, pair the watch, and try again. (If that doesn’t help, unpair it there again.)
+If the Pebble doesn’t appear and you’re on Android 10, make sure that Location is turned on (the Pebble app needs it to search for nearby Bluetooth devices).  If that still doesn't work, go to the Bluetooth settings page of the phone, pair the watch, and try again.
 
 ![](/images/setup/7.png)
 
