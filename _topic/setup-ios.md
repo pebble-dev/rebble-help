@@ -4,29 +4,20 @@ title: "Setup Rebble Web Services"
 prompt: "I need help setting up Rebble Web Services"
 date:   2021-02-01 07:14:42
 author: "Will0"
+hideFirstStepNumber: true
 
 osSpecific: true
 os: ios
 ---
 
-# Connect your Pebble to its charger   
+# iOS app removal 
 
-Connect your Pebble to a plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
+On the 4th of October 2021 the Pebble app was removed from the iOS App Store. That means new users who do not already have the Pebble app installed on their iPhones will not be able to download it.
 
-# Install the app from the App Store
+While Rebble are working on a replacement app, it is not yet ready for use.
 
-On your iPhone, download the Pebble app from the App Store:
+If you already have the Pebble app installed but not set up, continue with the guide.
 
-[App Store Link](https://itunes.apple.com/en/app/pebble/id957997620?mt=8)
-
-<notmobile>
-
-or via this QR code:   
-
-<qr url="https://itunes.apple.com/en/app/pebble/id957997620?mt=8" />
-
-</notmobile>
-   
 # Open the Pebble app
 
 If prompted, allow the Pebble app to turn on Bluetooth.
