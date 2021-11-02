@@ -16,13 +16,13 @@ Connect your Pebble to a plugged in USB charging cable. You really wouldn't want
 
 On your Android device, download the Pebble APK from the following link:
 
-[APK Download](https://www.apkmirror.com/apk/pebble-technology-corp/pebble/pebble-4-4-2-1405-62d45d7d7-endframe-release/pebble-4-4-2-1405-62d45d7d7-endframe-android-apk-download/)
+[APK Download](https://rebble.io/apk)
 
 <notmobile>
 
 or via this QR code:   
 
-<qr url="https://www.apkmirror.com/apk/pebble-technology-corp/pebble/pebble-4-4-2-1405-62d45d7d7-endframe-release/pebble-4-4-2-1405-62d45d7d7-endframe-android-apk-download/" />
+<qr url="https://rebble.io/apk" />
 
 </notmobile>
    
