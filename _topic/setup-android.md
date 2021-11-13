@@ -8,9 +8,9 @@ osSpecific: true
 os: android
 ---
 
-# Connect your Pebble to it's charger
+# Connect your Pebble to its charger
 
-Connect your Pebble to a plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
+Connect your Pebble to a plugged-in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
 
 # Download the Pebble APK
 
@@ -69,7 +69,7 @@ You’ll be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to
 
 # Pair your watch
 
-The app starts looking for nearby Pebbles. It should shortly see your Pebble, as Pebble xxxx. This same string can be seen on the Pebble, so you know the phone sees the right watch. Tap it.   
+The app starts looking for nearby Pebbles. It should shortly see your Pebble, whose name should show up as "Pebble xxxx". This same string can be seen on the Pebble, so you can confirm that the phone is seeing the right watch. Tap it.   
 
 If the Pebble doesn’t appear and you’re on Android 10, make sure that Location is turned on (the Pebble app needs it to search for nearby Bluetooth devices).  If that still doesn't work, go to the Bluetooth settings page of the phone, pair the watch, and try again.
 
@@ -104,11 +104,14 @@ You will be greeted with a number of ways to sign in.
 
 Choose one and sign in. *Remember your sign in credentials!*
 
-You will be returned to the Rebble site and be greeted with 'You’re all set!'   
+You will be returned to the Rebble site and be greeted with a page titled "You’re all set!"
+
+Click the "get started now" link on that page.
 
 # Switch to Rebble 
 
-Read the page, then tap the **Switch to Rebble** button.   
+You should now be seeing a page titled "Here we go!"
+Read the page, then tap the **Switch to Rebble** button at the bottom.   
 The browser will then ask if you want to open it with the Pebble app.
 
 ![](/images/setup/11.png)
@@ -117,7 +120,9 @@ You should then see this page:
 
 ![](/images/setup/12.png)
 
-**If you get back to the Pebble app and don't see that screen, go back to the browser and press *switch to Rebble* again.**
+**If you get back to the Pebble app and don't see that screen (e.g. you see the login screen again), go back to the browser and press *Switch to Rebble* again.**
+
+Press the "It's Rebble time!" button.
 
 # You’re done!
 
@@ -125,4 +130,4 @@ You should then see this page:
 
 You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
 
-If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
+If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period (and generally support the people who make Rebble possible), consider a [Rebble subscription](/subscription).
