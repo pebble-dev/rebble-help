@@ -89,12 +89,12 @@ Once you get to this screen, you've finished part 1 - connecting your Pebble.
    
 All that's left to do now is connect it to Rebble Web Services.
 
-# Open auth.rebble.io
+# Open boot.rebble.io
 
-On the phone, open a decent browser (like Chrome or Firefox), and go to [auth.rebble.io](https://auth.rebble.io).
+On the phone, open a decent browser (like Chrome or Firefox), and go to [boot.rebble.io](https://boot.rebble.io).
 
 <notmobile>
-    <qr url="https://auth.rebble.io" />
+    <qr url="https://boot.rebble.io" />
 </notmobile>
 
    
@@ -104,11 +104,12 @@ You will be greeted with a number of ways to sign in.
 
 Choose one and sign in. *Remember your sign in credentials!*
 
-You will be returned to the Rebble site and be greeted with 'You’re all set!'   
+You'll be redirected back to a page with a button.
 
 # Switch to Rebble 
 
 Read the page, then tap the **Switch to Rebble** button.   
+
 The browser will then ask if you want to open it with the Pebble app.
 
 ![](/images/setup/11.png)
