@@ -65,8 +65,8 @@ your Pebble will still receive notifications.
 
 
 ## Links and more help:
-- 64bit Pebble IPA (thanks Joshua from discord!): [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
-- 32bit Pebble IPA (thanks Tamago's friend from discord!): [Pebble (Decrypted).ipa](https://matrix.isincredibly.gay/_matrix/media/r0/download/isincredibly.gay/quHjkXhXNUwMrVHqqFbDxMkK)
+- 64bit Pebble IPA: [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
+- 32bit Pebble IPA (thanks to Tamago's friend from Discord!): [com.getpebble.pebbletime-32bit.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime-32bit.ipa)
 - Window users: iCloud [(download)](https://support.apple.com/en-us/HT204283) and iTunes [(download)](https://www.apple.com/itunes/)
 - Sideloadly Website: https://sideloadly.io/
 - Sideloadly Privacy Policy: https://sideloadly.io/privacy.html
