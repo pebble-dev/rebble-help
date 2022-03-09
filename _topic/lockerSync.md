@@ -25,12 +25,12 @@ If that does not work, continue to the next step.
 
 If the Rebble servers think your app or face is already installed, you can manually download it to fix the problem.   
    
-Open [apps.rebble.io/?dev_settings=true](https://apps.rebble.io/?dev_settings=true) on your phone.   
+Open [https://apps.rebble.io/en_US/watchapps?dev_settings=true](https://apps.rebble.io/en_US/watchapps?dev_settings=true) on your phone.   
 
 <notmobile>
 You can scan this QR code to go there:
 
-<qr url="https://apps.rebble.io/?dev_settings=true" />
+<qr url="https://apps.rebble.io/en_US/watchapps?dev_settings=true" />
 </notmobile>
 
 Search for the app or watchface that is out of sync.
