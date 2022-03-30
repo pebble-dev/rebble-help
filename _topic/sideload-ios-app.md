@@ -10,7 +10,7 @@ osSpecific: false
 ---
 # Installing the Pebble app on iOS with Sideloadly
 
->### [Looking for download links? Go to the end of the guide](#download-and-links)!
+>## [Looking for download links? Go to the end of the guide]!
 
 ---
 The Pebble app is [no longer on the App Store](/ios-app-unavailable).   
@@ -72,7 +72,7 @@ If you install the app and don't redo the process after a week, your Pebble will
 
 >#### If you experience any problems that this guide did not resolve, please join the Rebble Discord server [(See links below)](#download-and-links) and ask in the #rebble-help channel; one of the helpful volunteers will be glad to help you out!
 
-# Downloads and Links:
+## Downloads and Links:
 ### DOWNLOADS
 - **[NEW!]** 64bit Pebble IPA for iOS 13 and newer! (thanks to Doakyz from Discord!): [com.getpebble.pebbletime-iPhone13.ipa](https://cdn.discordapp.com/attachments/461686541027377152/939035930138923008/com.getpebble.pebbletime-iPhone13.ipa)
 - 64bit Pebble IPA: [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
