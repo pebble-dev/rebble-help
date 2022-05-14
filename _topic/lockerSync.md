@@ -21,9 +21,19 @@ First, try rebooting your phone. This often resolves the issue.
     
 If that does not work, continue to the next step.
 
+# Logout and login from app
+
+In the Pebble app, open Settings and scroll down to "Account > Logged In (email here)" and click to logout.
+
+Then in the same location click to login again.
+
+# Re-connect to Rebble.io
+
+Run https://boot.rebble.io/ (again)
+
 # Manually downloading the app
 
-If the Rebble servers think your app or face is already installed, you can manually download it to fix the problem.   
+If the Rebble servers think your app or face is already installed, you can manually download it to workaround the problem.   
    
 Open [https://apps.rebble.io/en_US/watchapps?dev_settings=true](https://apps.rebble.io/en_US/watchapps?dev_settings=true) on your phone.   
 
@@ -45,4 +55,4 @@ Once the .pbw file downloads, find the file and open it with the Pebble app.
 
 If you don't get the option to open the file with the Pebble app, [click here](/sideloading/)
 
-The app will now be installed and no longer out of sync with Rebble.
+The app will now be installed and usable (but locker may stil be out of sync with Rebble).
