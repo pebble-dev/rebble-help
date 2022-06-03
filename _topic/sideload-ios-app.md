@@ -46,9 +46,9 @@ If you install the app and don't redo the process after a week, your Pebble will
 ## Installation:
 1. Download the appropriate Pebble IPA on your computer.
     > **[IMPORTANT]** If you have a...
-    >   * iPhone 5 or older: download 32-bit IPA [(See links below)](#download-and-links).
-    >   * iPhone 5S or newer: download 64-bit IPA [(See links below)](#download-and-links).
-    >   * **[NEW!]** iOS 13 or newer: download **[NEW!]** 64-bit IPA [(See links below)](#download-and-links).
+    >   * iPhone 5 or older: download 32-bit IPA [(See links below)](#downloads).
+    >   * iPhone 5S or newer: download 64-bit IPA [(See links below)](#downloads).
+    >   * iOS 13 or newer: download 64-bit IPA [(See links below)](#downloads).
 2. Download and install Sideloadly on your computer.
 3. Connect your iOS device. There may be a popup on the iOS device asking to trust the computer, press Allow.
 4. Run Sideloadly. At some point, there will be a popup that asks for your Apple ID. Enter your email and password.
@@ -65,25 +65,34 @@ If you install the app and don't redo the process after a week, your Pebble will
 ## Help:
 - If you have sideloading issues, try installing the latest iTunes and iCloud before starting the process.
     > For Windows users: **DO NOT DOWNLOAD THE MICROSOFT STORE VERSION**. Download and install from Apple's website.
-- If the app does not start, go to the Settings app > General > Device Management > (your Apple ID email). The Pebble app should have the "Verified" status. If not, repeat steps 3-6.
+- If the app does not start, go to the Settings app > General > Device Management > (your Apple ID email). The Pebble app should now have a "Verified" status. If not, repeat steps 3-6.
 - If Sideloadly does not work for you, try using **AltStore***.
 
-###### **may be added a in a future guide update*
+###### **may be added in a future guide update*
 
->#### If you experience any problems that this guide did not resolve, please join the Rebble Discord server [(See links below)](#download-and-links) and ask in the #rebble-help channel; one of the helpful volunteers will be glad to help you out!
+>#### If you experience any problems that this guide did not resolve, please join the Rebble Discord server [(See links below)](#links) and ask in the **#rebble-help channel**; a helpful volunteer will be glad to help you out!
 
-## Downloads and Links:
-### DOWNLOADS
-- **[NEW!]** 64bit Pebble IPA for iOS 13 and newer! (thanks to Doakyz from Discord!): [com.getpebble.pebbletime-iPhone13.ipa](https://cdn.discordapp.com/attachments/461686541027377152/939035930138923008/com.getpebble.pebbletime-iPhone13.ipa)
+<h2 id="downloads-links">
+Downloads and Links:
+</h2>
+
+<h3 id="downloads">
+DOWNLOADS
+</h3>
+
+- 64bit Pebble IPA for iOS 13 and newer (thanks Doakyz!): [com.getpebble.pebbletime-iPhone13.ipa](https://cdn.discordapp.com/attachments/461686541027377152/939035930138923008/com.getpebble.pebbletime-iPhone13.ipa)
 - 64bit Pebble IPA: [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
-- 32bit Pebble IPA (thanks to Tamago's friend from Discord!): [com.getpebble.pebbletime-32bit.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime-32bit.ipa)
+- 32bit Pebble IPA (thanks Tamago's friend!): [com.getpebble.pebbletime-32bit.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime-32bit.ipa)
 - Window users: iCloud [(download)](https://support.apple.com/en-us/HT204283) and iTunes [(download)](https://www.apple.com/itunes/)
 
-### LINKS
-- **Rebble Website: https://rebble.io/**
-    - **Rebble Discord Server: https://rebble.io/discord**
-    - **Rebble Setup: https://boot.rebble.io/**
-    - **Rebble FAQ: https://rebble.io/faq/**
-- Sideloadly Website: https://sideloadly.io/
-    - Sideloadly Privacy Policy: https://sideloadly.io/privacy.html
-    - Sideloadly FAQ: https://sideloadly.io/#faq
+<h3 id="links">
+LINKS
+</h3>
+
+- **Rebble Website: [https://rebble.io/](https://rebble.io/)**
+    - **Rebble Discord Server: [https://rebble.io/discord](https://rebble.io/discord)**
+    - **Rebble Setup: [https://boot.rebble.io/](https://boot.rebble.io/)**
+    - **Rebble FAQ: [https://rebble.io/faq/](https://rebble.io/faq/)**
+- Sideloadly Website: [https://sideloadly.io/](https://sideloadly.io/)
+    - Sideloadly Privacy Policy: [https://sideloadly.io/privacy](https://sideloadly.io/privacy)
+    - Sideloadly FAQ: [https://sideloadly.io/#faq](https://sideloadly.io/#faq)
