@@ -2,8 +2,8 @@
 layout: post
 title: "Sideloading the Pebble app on iOS"
 prompt: "How to install the iOS app"
-keywords: "removed apple ios iphone store sideload ipa"
-date:   2022-03-30 13:00:00
+keywords: "removed app apple ios iphone store sideload ipa"
+date:   2022-06-03 16:35:00
 author: "robonxt"
 hideFirstStepNumber: true
 osSpecific: false
@@ -14,10 +14,13 @@ osSpecific: false
 
 ---
 The Pebble app is [no longer on the App Store](/ios-app-unavailable).   
-No worries! If you have an Apple ID, you can install the app yourself! Just be aware that you have to do this every week for the app to keep working!
+No worries! If you have an Apple ID, you can install the app yourself! 
 
-If you install the app and don't redo the process after a week, your Pebble will still receive notifications.
-###### *(written by robonxt, last updated on March 30, 2022)*
+Please note that you have to do this every 7 days for the app to keep working.
+
+If you don't redo the process after a week, your Pebble will still receive notifications.
+
+###### *(written by robonxt, last updated on June 6, 2022)*
 ---
 
 
