@@ -3,17 +3,21 @@ layout: post
 title: "Sideloading the Pebble app on iOS"
 prompt: "How to install the iOS app"
 keywords: "removed app apple ios iphone store sideload ipa"
-date:   2022-06-03 16:35:00
+date:   2022-06-03 17:00:00
 author: "robonxt"
 hideFirstStepNumber: true
 osSpecific: false
 ---
-# Installing the Pebble app on iOS with Sideloadly
+
+<h1 id="header">
+Installing the Pebble app on iOS with Sideloadly
+</h1>
 
 >## [Looking for download links? Go to the end of the guide]!
 
 ---
-The Pebble app is [no longer on the App Store](/ios-app-unavailable).   
+The Pebble app is [no longer on the App Store](/ios-app-unavailable).
+
 No worries! If you have an Apple ID, you can install the app yourself! 
 
 Please note that you have to do this every 7 days for the app to keep working.
@@ -23,20 +27,28 @@ If you don't redo the process after a week, your Pebble will still receive notif
 ###### *(written by robonxt, last updated on June 6, 2022)*
 ---
 
+<h2 id="what-we-do">
+What we are going to do:
+</h2>
 
-## What we are going to do:
 1. Install Sideloadly on the computer
 3. Download Pebble IPA
 2. Use Sideloadly to sideload the Pebble IPA file onto the iOS device
 
-## Requirements:
+<h2 id="requirements">
+Requirements:
+</h2>
+
 - Apple ID (Apple ID account)
 - Computer (Windows 10, or macOS 10.14 and higher) with internet access
 - iOS device (iOS 7 or higher) with internet access
 - Cable for iOS device
 - (Optional) Latest iCloud and iTunes installed
 
-## Before starting:
+<h2 id="before-starting">
+Before starting:
+</h2>
+
 - Read this guide carefully!
 - Make sure that...
     - Computer is connected to the internet
@@ -46,7 +58,11 @@ If you don't redo the process after a week, your Pebble will still receive notif
 > **[INFORMATION BOXES]** If you see this, then it is important!
 
 ---
-## Installation:
+
+<h2 id="install">
+Installation:
+</h2>
+
 1. Download the appropriate Pebble IPA on your computer.
     > **[IMPORTANT]** If you have a...
     >   * iPhone 5 or older: download 32-bit IPA [(See links below)](#downloads).
@@ -65,7 +81,11 @@ If you don't redo the process after a week, your Pebble will still receive notif
 10. Profit!
 
 ---
-## Help:
+
+<h2 id="help">
+Help:
+</h2>
+
 - If you have sideloading issues, try installing the latest iTunes and iCloud before starting the process.
     > For Windows users: **DO NOT DOWNLOAD THE MICROSOFT STORE VERSION**. Download and install from Apple's website.
 - If the app does not start, go to the Settings app > General > Device Management > (your Apple ID email). The Pebble app should now have a "Verified" status. If not, repeat steps 3-6.
