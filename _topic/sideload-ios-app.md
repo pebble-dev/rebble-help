@@ -106,7 +106,7 @@ DOWNLOADS
 - 64bit Pebble IPA for iOS 13 and newer (thanks Doakyz!): [com.getpebble.pebbletime-iPhone13.ipa](https://cdn.discordapp.com/attachments/461686541027377152/939035930138923008/com.getpebble.pebbletime-iPhone13.ipa)
 - 64bit Pebble IPA: [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
 - 32bit Pebble IPA (thanks Tamago's friend!): [com.getpebble.pebbletime-32bit.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime-32bit.ipa)
-- Window users: iCloud [(download)](https://support.apple.com/en-us/HT204283) and iTunes [(download)](https://www.apple.com/itunes/)
+- Window users: iCloud [(direct download)]([https://support.apple.com/en-us/HT204283](https://updates.cdn-apple.com/2020/windows/001-39935-20200911-1A70AA56-F448-11EA-8CC0-99D41950005E/iCloudSetup.exe)) and iTunes [(direct download)]([https://www.apple.com/itunes/](https://www.apple.com/itunes/#ac-gn-menustate))
 
 <h3 id="links">
 LINKS
