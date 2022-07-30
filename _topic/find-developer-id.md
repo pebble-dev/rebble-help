@@ -2,7 +2,7 @@
 layout: post
 title: "Find the developer ID for an existing appstore author"
 prompt: "Find the developer ID for an existing appstore author"
-keywords: ""
+keywords: "developer ID existing app store author"
 date:   2021-07-29 09:00:00
 author: "Will0"
 hideFirstStepNumber: true
@@ -17,6 +17,7 @@ Once open, search for an application by the author of which you want to find the
 
 ![](/images/misc/search.png)
 
+
 # Click 'more from this developer'
 
 Scroll to the bottom and click 'more from this developer'
@@ -29,6 +30,8 @@ Scroll to the bottom and click 'more from this developer'
 If you look at the URL of the page you are now on, the developer ID is the alphanumeric ID that forms the second to last part of the URL.
 
 ![](/images/misc/developerID.png)
+
+# Done!
 
 If there is a question mark in the URL, ignore it and everything after it.
 
