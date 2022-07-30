@@ -8,9 +8,21 @@ osSpecific: true
 os: android
 ---
 
-# Connect your Pebble to it's charger
+# Android app removal 
+
+The Pebble app was removed from the Google Play Store ([read more here](/android-app-unavailable/)). 
+
+While Rebble are working on a replacement app, it is not yet ready for use. If you are an Android developer, [get in touch!](https://rebble.io/contact)
+
+If you do not have the Pebble app installed, don't worry, keep following the guide! 
+
+If you already have the Pebble app installed but not set up, skip to [Step #4](https://help.rebble.io/setup-android/#4).
+
+
+# Connect your Pebble to its charger
 
 Connect your Pebble to a plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
+
 
 # Download the Pebble APK
 
@@ -19,26 +31,28 @@ On your Android device, download the Pebble APK from the following link:
 [APK Download](https://rebble.io/apk)
 
 <notmobile>
-
 or via this QR code:   
 
 <qr url="https://rebble.io/apk" />
-
 </notmobile>
    
+
 # Install the APK
 
 Once you've downloaded the .apk file, open it on your phone by selecting it, then selecting **Install**:   
 
 ![](/images/setup/3.png)
 
+
 You might be prompted with the following screen:
 
 ![](/images/setup/1.png)
 
+
 If so, click through to Settings and select "Allow from this source" to enable installation of apps from unknown sources for your preferred file manager. 
 
 ![](/images/setup/2.png)
+
 
 This will allow the official Pebble app to be sideloaded. You can revert this setting when the Pebble app is installed if you'd like!
 
@@ -48,12 +62,10 @@ This will allow the official Pebble app to be sideloaded. You can revert this se
 If you're running Android 7 or below:
 
 - Once you've downloaded the .apk file, open Settings.
-
 - Tap "Lock screen and Security," or "Security."
-
 - Tap "Allow installation from unknown sources," "Unknown sources," or a similar option. Then, read the prompt and tap **OK**.
-
 - Go back to the downloaded Pebble APK file in your file manager, and proceed with the installation.
+
 
 # Open the Pebble app
 
@@ -63,9 +75,11 @@ You’ll be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to
 
 ![](/images/setup/5.png)
 
+
 # Choose the type of Pebble you have
 
 ![](/images/setup/6.png)
+
 
 # Pair your watch
 
@@ -75,55 +89,65 @@ If the Pebble doesn’t appear and you’re on Android 10, make sure that Locati
 
 ![](/images/setup/7.png)
 
+
 # Run through the watch setup
 
 Run through the Pebble setup screens. Make sure you allow notification access:
 
 ![](/images/setup/8.png)
 
+
 # Complete the Pebble pairing
 
 Once you get to this screen, you've finished part 1 - connecting your Pebble.   
+
+All that's left to do now is connect it to Rebble Web Services.
    
 ![](/images/setup/9.png)   
-   
-All that's left to do now is connect it to Rebble Web Services.
 
-# Open boot.rebble.io
 
-On the phone, open a decent browser (like Chrome or Firefox), and go to [boot.rebble.io](https://boot.rebble.io).
+# Visit boot.rebble.io
+
+The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers instead of the defunct Pebble servers.   
+
+On your phone, open a decent browser (like Chrome or Firefox), and go to [boot.rebble.io](https://boot.rebble.io)
 
 <notmobile>
     <qr url="https://boot.rebble.io" />
 </notmobile>
 
-   
-You will be greeted with a number of ways to sign in.    
+If you are not already logged in, you will be prompted to log in. 
 
-![](/images/setup/10.png)   
+**Make sure you log in with the correct account**   
 
-Choose one and sign in. *Remember your sign in credentials!*
+![](/images/misc/auth.png)
 
-You'll be redirected back to a page with a button.
 
-# Switch to Rebble 
+# Press 'Switch to Rebble'
 
-Read the page, then tap the **Switch to Rebble** button.   
+Read the page, then tap the switch to Rebble button. 
 
-The browser will then ask if you want to open it with the Pebble app.
+If you get a prompt about "Open with Pebble", press 'Okay'.
+
+Press 'Switch To Rebble'.
 
 ![](/images/setup/11.png)
 
-You should then see this page:
+
+# All done!
+
+Press "It's Rebble Time" and you're done!
+
+**If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
 
 ![](/images/setup/12.png)
 
-**If you get back to the Pebble app and don't see that screen, go back to the browser and press *switch to Rebble* again.**
+# What's next?
 
-# You’re done!
+You’re done! Tap the big “+” in the lower right corner to find and install watchfaces you like from the Rebble appstore.
+
+If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
 
 ![noborder](/images/setup/13.png)
 
-You’re done! Go to Watchfaces, tap the big red “+” in the lower right corner and find and install watchfaces you like from the Rebble store.
-
-If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
+Welcome to *Rebbled* Pebble!
