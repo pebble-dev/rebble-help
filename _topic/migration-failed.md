@@ -13,10 +13,10 @@ osSpecific: false
 With Pebble Classic or Pebble Steel, you may see an error where the update screen shows 'Could not find any migration firmware to install'.   
 
 To resolve this, you need a device with a Pebble app that has not been switched to Rebble. 
-You can
-- use another device
-- [remove Rebble from the Pebble app](/unrebble/) 
-- Uninstall the Pebble app from your phone and reinstall it.
+You can either:
+- Use another device
+- [Remove Rebble from the Pebble app](/unrebble/) 
+- Uninstall the Pebble app from your phone and reinstall it (highly not recommended if on a iOS device!)
 
 Once you have done one of the above options, when you pair the watch again it will now complete the firmware upgrade.
 
