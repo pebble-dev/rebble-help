@@ -10,9 +10,7 @@ os: android
 
 # Android app removal 
 
-The Pebble app was removed from the Google Play Store ([read more here](/android-app-unavailable/)). 
-
-While Rebble are working on a replacement app, it is not yet ready for use. If you are an Android developer, [get in touch!](https://rebble.io/contact)
+The Pebble app was removed from the Google Play Store due to SMS issues ([Read about it here.](/android-app-unavailable))
 
 If you do not have the Pebble app installed, don't worry, keep following the guide! 
 
@@ -32,8 +30,8 @@ On your Android device, download the Pebble APK from the following link:
 
 <notmobile>
 or via this QR code:   
-
-<qr url="https://rebble.io/apk" />
+   
+   <qr url="https://rebble.io/apk" />
 </notmobile>
    
 
@@ -83,9 +81,17 @@ You’ll be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to
 
 # Pair your watch
 
-The app starts looking for nearby Pebbles. It should shortly see your Pebble, as Pebble xxxx. This same string can be seen on the Pebble, so you know the phone sees the right watch. Tap it.   
+The app starts looking for nearby Pebbles. It should shortly see your Pebble, as "Pebble xxxx". This same name can be seen on the Pebble, so you know the phone sees the right watch. Tap it.   
 
-If the Pebble doesn’t appear and you’re on Android 10, make sure that Location is turned on (the Pebble app needs it to search for nearby Bluetooth devices).  If that still doesn't work, go to the Bluetooth settings page of the phone, pair the watch, and try again.
+*If the Pebble doesn’t appear and you are on Android 10 (or newer), make sure that Location is turned on; as that is how the Pebble app searches for nearby Bluetooth devices.  If that still doesn't work, go to the Bluetooth settings page of the phone, pair the watch, and try again.*
+
+If your phone does not see the Pebble, try these steps:
+1. Turn on Airplane mode on your phone
+2. Turn on Location (this is how Pebble looks for nearby Bluetooth devices)
+3. Turn on Bluetooth
+4. Pair the Pebble through the Pebble app. (Make sure to turn off Airplane Mode afterwards!)
+
+If that still doesn't work, please [contact us on Discord](/discord)
 
 ![](/images/setup/7.png)
 
@@ -99,9 +105,9 @@ Run through the Pebble setup screens. Make sure you allow notification access:
 
 # Complete the Pebble pairing
 
-Once you get to this screen, you've finished part 1 - connecting your Pebble.   
+Once you get to this screen, you've successfully connected your Pebble! 
 
-All that's left to do now is connect it to Rebble Web Services.
+All that's left to do now is to connect it to Rebble Web Services.
    
 ![](/images/setup/9.png)   
 
@@ -116,9 +122,11 @@ On your phone, open a decent browser (like Chrome or Firefox), and go to [boot.r
     <qr url="https://boot.rebble.io" />
 </notmobile>
 
-If you are not already logged in, you will be prompted to log in. 
+If you are not already logged in, you will be greeted with a number of ways to sign in.   
 
-**Make sure you log in with the correct account**   
+Choose one and sign in. *Remember your sign in credentials!*
+
+If this is successful, you will return to the Rebble website, and be greeted with *You're all set!*
 
 ![](/images/misc/auth.png)
 
@@ -131,6 +139,8 @@ If you get a prompt about "Open with Pebble", press 'Okay'.
 
 Press 'Switch To Rebble'.
 
+The Pebble app will then open.
+
 ![](/images/setup/11.png)
 
 
@@ -142,12 +152,15 @@ Press "It's Rebble Time" and you're done!
 
 ![](/images/setup/12.png)
 
+
 # What's next?
 
 You’re done! Tap the big “+” in the lower right corner to find and install watchfaces you like from the Rebble appstore.
 
 If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
 
-![noborder](/images/setup/13.png)
+If you have any other questions, [contact us on Discord!](/discord)
 
-Welcome to *Rebbled* Pebble!
+## Welcome to *Rebbled* Pebble!
+
+![noborder](/images/setup/13.png)
