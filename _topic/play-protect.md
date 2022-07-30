@@ -13,13 +13,14 @@ osSpecific: false
 
 If you have a newer version of Android, you may see a warning from Google Play Protect upon installing the Pebble app:
 
+You can disregard this warning. The Pebble app is completely safe.    
+
 ![](/images/misc/playprotect.png)
 
-You can disregard this warning and have nothing to worry about. The Pebble app is completely safe.    
+# Done!
 
 This warning is due to the age of the Pebble app. It technically no longer meets Google Play's guidelines because of the way it asks for phone call and SMS access, which it uses for notifications.    
 
 The details of that policy can be [viewed here](https://support.google.com/googleplay/android-developer/answer/10208820).
 
 If you get a prompt asking you or recommending you to delete it, you should disregard it.
-
