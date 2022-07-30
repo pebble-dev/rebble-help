@@ -10,13 +10,9 @@ os: ios
 
 # iOS app removal 
 
-On the 4th of October 2021 the Pebble app was removed from the iOS App Store. 
+On the 4th of October 2021 the Pebble app was removed from the iOS App Store ([Read about it here.](/ios-app-unavailable))
 
-That means new users who do not already have the Pebble app installed on their iPhones will not be able to download it.
-
-While Rebble are working on a replacement app, it is not yet ready for use. If you are an iOS developer, [get in touch!](https://rebble.io/contact)
-
-If you do not have the Pebble app installed, follow this [sideloading (installation) guide](/sideload-ios-app) first! 
+If you do not have the Pebble app installed, **follow this [sideloading (installation) guide](/sideload-ios-app) first!** 
 
 If you already have the Pebble app installed but not set up, continue with the guide.
 
@@ -35,27 +31,26 @@ If prompted, allow the Pebble app to turn on Bluetooth.
 
 # Skip the sign in page
 
-The old sign in page (now blank) will be shown.   
+The old sign in page (now blank) will be shown. Press SKIP in the top left.
 
 ![](/images/ios/setup2.png)
-
-Press SKIP in the top left.
 
 
 # Choose dictation language
 
-Choose your dictation language.    
+Choose your dictation language. For now, Press "CONTINUE".
+
+*To use dictation you will need a [Rebble subscription.](/subscription)*
 
 ![](/images/ios/setup3.png)
 
-To use dictation you will need a [Rebble subscription.](/subscription)
 
 
 # Choose the type of Pebble you have
 
-![](/images/ios/setup4.png)
+iOS then opens the accessory pairing screen. Wait a few seconds, then select your Pebble.
 
-iOS then opens the accessory pairing screen. Wait a moment, then select your Pebble.
+![](/images/ios/setup4.png)
 
 ![](/images/ios/setup5.png)
 
@@ -84,6 +79,8 @@ Allow the Pebble app to pair with your watch in Low Energy (LE) mode.
 # Enable push notifications
 
 Allow notifications.
+
+*Some users have found issues with notifications not working. Please [contact us on Discord](/discord) if you experience them!*
 
 ![](/images/ios/setup12.png)
 
@@ -151,7 +148,7 @@ If you get a prompt about "Open with Pebble", press 'Okay'.
 
 Press 'Switch To Rebble'.
 
-The Pebble iOS app will then open. If you get the 'Configuration change' prompt, press 'Change'.
+The Pebble app will then open. If you get the 'Configuration change' prompt, press 'Change'.
 
 **Wait at least fifteen seconds** before proceeding to the next step!
 
@@ -160,7 +157,7 @@ The Pebble iOS app will then open. If you get the 'Configuration change' prompt,
 
 # Tap the exclamation mark
 
-After waiting, tap the yellow exclamation mark in the top left of the screen ![icon](/images/ios/boot4.png)
+After waiting, tap the yellow exclamation mark in the top left of the screen (looks like this -> ![icon](/images/ios/boot4.png) )
 
 Press Log in. 
 
@@ -173,8 +170,6 @@ Press "It's Rebble Time" and you're done!
 
 **If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
 
-You have now re-run the boot process. This forces a timeline sync and relinks you to Rebble.
-
 ![](/images/ios/boot3.png)
 
 
@@ -184,6 +179,8 @@ You’re done! Tap the big “+” in the lower right corner to find and install
 
 If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
 
-![noborder](/images/setup/13.png)
+If you have any other questions, [contact us on Discord!](/discord)
 
-Welcome to *Rebbled* Pebble!
+## Welcome to *Rebbled* Pebble!
+
+![noborder](/images/setup/13.png)
