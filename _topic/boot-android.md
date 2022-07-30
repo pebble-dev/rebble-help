@@ -12,11 +12,12 @@ os: android
 
 # The boot process
 
-The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers.   
+The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers instead of the defunct Pebble servers.   
 
-You perform this process during inital Rebble setup, but it can sometimes be useful to re-run it as a problem solving step.
+You perform this process during inital Rebble setup, but it can sometimes be useful to re-run this process if there are any issues.
 
-Press next to start the guide
+Press next to start the guide!
+
 
 # Visit boot.rebble.io
 
@@ -26,21 +27,24 @@ On your phone, visit [boot.rebble.io](https://boot.rebble.io)
     <qr url="https://boot.rebble.io" />
 </notmobile>
 
-If you are not already logged in, you will be prompted to log in:
+If you are not already logged in, you will be prompted to log in. 
+
+**Make sure you log in with the correct account**   
 
 ![](/images/misc/auth.png)
 
-**Make sure you log in with the correct account**   
 
 # Switch to Rebble
 
 Read the page, then tap the switch to Rebble button.   
 
-The browser will then ask if you want to open it with Pebble.
+The browser will then ask if you want to open it with Pebble. 
+
+Press 'Switch To Rebble'
 
 ![](/images/setup/11.png)
 
-Press 'Switch To Rebble'
+
 
 # All Done
 
