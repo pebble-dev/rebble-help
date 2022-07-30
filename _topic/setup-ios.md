@@ -19,7 +19,7 @@ If you already have the Pebble app installed but not set up, continue with the g
 
 # Connect your Pebble to its charger
 
-Connect your Pebble to a plugged in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
+Connect your Pebble to a plugged-in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
 
 
 # Open the Pebble app
@@ -142,11 +142,11 @@ If this is successful, you will return to the Rebble website, and be greeted wit
 
 # Press 'Switch to Rebble'
 
-Read the page, then tap the switch to Rebble button. 
+You should now be seeing a page titled "Here we go!"
+
+Read the page, then tap the **Switch to Rebble** button at the bottom of the page.   
 
 If you get a prompt about "Open with Pebble", press 'Okay'.
-
-Press 'Switch To Rebble'.
 
 The Pebble app will then open. If you get the 'Configuration change' prompt, press 'Change'.
 
@@ -166,18 +166,20 @@ Press Log in.
 
 # All done!
 
-Press "It's Rebble Time" and you're done!
+**If you get back to the Pebble app and don't see that screen (e.g. you see the login screen again), go back to the browser and press *Switch to Rebble* again.**
 
-**If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
+Press "It's Rebble Time" and you're done!
 
 ![](/images/ios/boot3.png)
 
 
 # What's next?
 
-You’re done! Tap the big “+” in the lower right corner to find and install watchfaces you like from the Rebble appstore.
+Congratulations! Now what can you do with your Pebble?
 
-If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period, check out a [Rebble subscription](/subscription)
+Tap the big “+” in the lower right corner to find and install watchfaces you like from the Rebble appstore.
+
+If you want to use dictation, get weather pins in your Timeline, and have a faster Timeline sync period (and generally support the people who make Rebble possible), consider a [Rebble subscription](/subscription).
 
 If you have any other questions, [contact us on Discord!](/discord)
 
