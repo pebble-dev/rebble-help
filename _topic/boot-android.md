@@ -34,26 +34,25 @@ If you are not already logged in, you will be prompted to log in.
 ![](/images/misc/auth.png)
 
 
-# Switch to Rebble
+# Press 'Switch to Rebble'
 
-Read the page, then tap the switch to Rebble button.   
+Read the page, then tap the switch to Rebble button. 
 
-The browser will then ask if you want to open it with Pebble. 
+If you get a prompt about "Open with Pebble", press 'Okay'.
 
-Press 'Switch To Rebble'
+Press 'Switch To Rebble'.
 
 ![](/images/setup/11.png)
 
 
-
-# All Done
-
-You should then see this page:
-
-![](/images/setup/12.png)
+# All Done!
 
 Press "It's Rebble Time" and you're done!
 
 **If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
 
 You have now re-run the boot process. This forces a timeline sync and relinks you to Rebble.
+
+![](/images/setup/12.png)
+
+
