@@ -11,11 +11,12 @@ osSpecific: false
 
 # Change your developer account name
 
-Your developer account name is the author name show in the Rebble appstore.
+This guide covers how to use the developer portal to change your developer name.
+
+Your developer account name is the author name shown in the Rebble appstore.
 
 ![](/images/devportal/authorname.png)
 
-This guide covers how to use the developer portal to change your developer name.
 
 # Log in to the developer portal
 
@@ -23,11 +24,12 @@ Visit [dev-portal.rebble.io](https://dev-portal.rebble.io/) on a computer.
 
 Once you're logged in, you will be greeted with a list of your applications.
 
-![](/images/devportal/landing.png)
-
-(If you instead get a prompt asking you to create a new developer account, see [this help topic](/LINKNEEDED) )
+(If you instead get a prompt asking you to create a new developer account, please contact us at the [Rebble Discord Server](https://rebble.io/discord) )
 
 Click the gears icon next to your current developer name in the top right of the page
+
+![](/images/devportal/landing.png)
+
 
 # Select the edit button
 
@@ -35,9 +37,15 @@ You'll now see your profile page. Select the pen next to your developer name:
 
 ![](/images/devportal/changenamestart.png)
 
+
+# Change your developer name
+
 Update the name to the desired value, then press 'Update Name'
 
 ![](/images/devportal/changename2.png)
+
+
+# Done!
 
 You have now updated your developer name. This will be reflected in the appstore immediately.
 

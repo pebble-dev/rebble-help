@@ -12,11 +12,12 @@ os: android
 
 # The boot process
 
-The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers.   
+The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers instead of the defunct Pebble servers.   
 
-You perform this process during inital Rebble setup, but it can sometimes be useful to re-run it as a problem solving step.
+You perform this process during inital Rebble setup, but it can sometimes be useful to re-run this process if there are any issues.
 
-Press next to start the guide
+Press next to start the guide!
+
 
 # Visit boot.rebble.io
 
@@ -26,30 +27,32 @@ On your phone, visit [boot.rebble.io](https://boot.rebble.io)
     <qr url="https://boot.rebble.io" />
 </notmobile>
 
-If you are not already logged in, you will be prompted to log in:
-
-![](/images/misc/auth.png)
+If you are not already logged in, you will be prompted to log in. 
 
 **Make sure you log in with the correct account**   
 
-# Switch to Rebble
+![](/images/misc/auth.png)
 
-Read the page, then tap the switch to Rebble button.   
 
-The browser will then ask if you want to open it with Pebble.
+# Press 'Switch to Rebble'
+
+Read the page, then tap the switch to Rebble button. 
+
+If you get a prompt about "Open with Pebble", press 'Okay'.
+
+Press 'Switch To Rebble'.
 
 ![](/images/setup/11.png)
 
-Press 'Switch To Rebble'
 
-# All Done
-
-You should then see this page:
-
-![](/images/setup/12.png)
+# All Done!
 
 Press "It's Rebble Time" and you're done!
 
 **If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
 
 You have now re-run the boot process. This forces a timeline sync and relinks you to Rebble.
+
+![](/images/setup/12.png)
+
+

@@ -12,11 +12,12 @@ os: ios
 
 # The boot process
 
-The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers.   
+The boot process, or 'running boot', is the process in which you tell the Pebble app to use Rebble servers instead of the defunct Pebble servers.   
 
-You perform this process during inital Rebble setup, but it can sometimes be useful to re-run it as a problem solving step.
+You perform this process during inital Rebble setup, but it can sometimes be useful to re-run this process if there are any issues.
 
-Press next to start the guide
+Press next to start the guide!
+
 
 # Visit boot.rebble.io
 
@@ -26,38 +27,45 @@ On your phone, visit [boot.rebble.io](https://boot.rebble.io)
     <qr url="https://boot.rebble.io" />
 </notmobile>
 
-If you are not already logged in, you will be prompted to log in:
-
-![](/images/ios/setup18.png)
+If you are not already logged in, you will be prompted to log in. 
 
 **Make sure you log in with the correct account**   
 
+![](/images/misc/auth.png)
+
+
+
 # Press 'Switch to Rebble'
 
-Read the page, then tap the switch to Rebble button. If you get a prompt, press 'Okay'.
+Read the page, then tap the switch to Rebble button. 
+
+If you get a prompt about "Open with Pebble", press 'Okay'.
+
+Press 'Switch To Rebble'.
 
 The Pebble iOS app will then open. If you get the 'Configuration change' prompt, press 'Change'.
 
+**Wait at least fifteen seconds** before proceeding to the next step!
+
 ![](/images/ios/boot1.png)
-   
-**Wait at least fifteen seconds** before proceeding to the next step.
+
 
 # Tap the exclamation mark
 
 After waiting, tap the yellow exclamation mark in the top left of the screen ![icon](/images/ios/boot4.png)
 
-You'll see this menu:
+Press Log in. 
 
 ![](/images/ios/boot2.png)
 
-Press Log in. 
 
-# You're done
+# All Done!
 
-You should now see this screen:
+Press "It's Rebble Time" and you're done!
 
-![](/images/ios/boot3.png).
-
-Press "It's Rebble Time"
+**If you get back to the Pebble app and don't see the rocket screen, go back to the browser and press *switch to Rebble* again.**
 
 You have now re-run the boot process. This forces a timeline sync and relinks you to Rebble.
+
+![](/images/ios/boot3.png)
+
