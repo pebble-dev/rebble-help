@@ -63,6 +63,12 @@ If you are running Android 7 or below:
 - Tap "Allow installation from unknown sources," "Unknown sources," or a similar option. Then, read the prompt and tap **OK**.
 - Go back to the downloaded Pebble APK file in your file manager, and proceed with the installation.
 
+If you are running Android 13:
+- Go to Settings > Apps > Pebble
+- Tap the top left button (should be three dots)
+- Tap on "Restricted Settings" (or something similar)
+- Allow the Pebble app to have all permissions
+
 
 # Open the Pebble app
 
