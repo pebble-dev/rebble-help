@@ -99,6 +99,10 @@ Run through the Pebble setup screens. Make sure you allow notification access:
 
 ![](/images/setup/8.png)
 
+<sub>Please note you might have to enable [restricted settings](https://help.rebble.io/android-restricted-settings) on Android 13+ </sub>
+
+
+
 
 # Complete the Pebble pairing
 
