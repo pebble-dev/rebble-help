@@ -1,8 +1,11 @@
 <head>
     <meta charset="utf-8">
     <title>{% if page.title and page.title != site.title %}{{ site.title }} · {{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="The help center for Rebble.io">
+    <meta name="og:description" content="{% if page.prompt %}{{ page.prompt }}{% else %}The help center for Rebble.io{% endif %}">
     <meta name="og:title" content="Rebble Help Center"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:image" content="{{ site.baseurl }}/images/social-icons/embed.png" />
     <meta name="theme-color" content="#373a3c">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,6 +15,4 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/res/css/svg.css?version=1.0.0">
     <link rel="stylesheet" href="{{ site.baseurl }}/res/css/help.css"></link>
-
-    
 </head>
