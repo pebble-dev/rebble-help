@@ -69,7 +69,7 @@ If you are running Android 13:
 - Tap on "Restricted Settings" (or something similar)
 - Allow the Pebble app to have all permissions
 
-*For more information, please check this Google Help page: https://support.google.com/android/answer/12623953#allowrestrictedsettings* 
+For more information, please check [this Google Help page](https://support.google.com/android/answer/12623953#allowrestrictedsettings)
 # Open the Pebble app
 
 You will be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to continue.
