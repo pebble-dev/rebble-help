@@ -2,8 +2,8 @@
 layout: post
 title: "Setup Rebble Web Services"
 prompt: "I need help setting up Rebble Web Services"
-date:   2021-02-01 07:14:42
-author: "Will0, lolrepeatlol"
+date:   2023-10-02 07:14:42
+author: "Will0, lolrepeatlol, bmacphail"
 osSpecific: true
 os: android
 ---
@@ -12,9 +12,7 @@ os: android
 
 The Pebble app was removed from the Google Play Store due to SMS issues ([Read about it here.](/android-app-unavailable))
 
-If you do not have the Pebble app installed, don't worry, keep following the guide! 
-
-If you already have the Pebble app installed but not set up, skip to [Step #4](https://help.rebble.io/setup-android/#4).
+If you do not have the Pebble app installed, check out [the guide for installing it](/sideload-android-app).
 
 
 # Connect your Pebble to its charger
@@ -22,54 +20,6 @@ If you already have the Pebble app installed but not set up, skip to [Step #4](h
 Connect your Pebble to a plugged-in USB charging cable. You really wouldn't want it to lose power in the middle of a firmware update! Once the watch is powered on, press the left button to dismiss the charging screen.
 
 
-# Download the Pebble APK
-
-On your Android device, download the Pebble APK from the following link:
-
-[APK Download](https://rebble.io/apk)
-
-<notmobile>
-or via this QR code:   
-   
-   <qr url="https://rebble.io/apk" />
-</notmobile>
-   
-
-# Install the APK
-
-Once you've downloaded the .apk file, open it on your phone by selecting it, then selecting **Install**:   
-
-![](/images/setup/3.png)
-
-
-You might be prompted with the following screen:
-
-![](/images/setup/1.png)
-
-
-If so, click through to Settings and select "Allow from this source" to enable installation of apps from unknown sources for your preferred file manager. 
-
-![](/images/setup/2.png)
-
-
-This will allow the official Pebble app to be sideloaded. You can revert this setting when the Pebble app is installed if you'd like!
-
-**On earlier versions of Android (7 or below), the permissions step will be slightly different**. 
-
-If you are running Android 7 or below:
-
-- Once you've downloaded the .apk file, open Settings.
-- Tap "Lock screen and Security," or "Security."
-- Tap "Allow installation from unknown sources," "Unknown sources," or a similar option. Then, read the prompt and tap **OK**.
-- Go back to the downloaded Pebble APK file in your file manager, and proceed with the installation.
-
-If you are running Android 13:
-- Go to Settings > Apps > Pebble
-- Tap the top left button (should be three dots)
-- Tap on "Restricted Settings" (or something similar)
-- Allow the Pebble app to have all permissions
-
-For more information, please check [this Google Help page](https://support.google.com/android/answer/12623953#allowrestrictedsettings)
 # Open the Pebble app
 
 You will be greeted by the Pebble Account page. Simply tap 'SKIP LOGIN' twice to continue.
