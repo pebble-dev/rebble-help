@@ -4,7 +4,7 @@ title: "Sideloading the Pebble app on Android"
 prompt: "How to install / sideload the Pebble Android app"
 keywords: "android 14 apk"
 date:   2023-10-04 00:00:00
-author: "bmacphail"
+author: "bmacphail, Will0"
 hideFirstStepNumber: true
 osSpecific: false
 ---
