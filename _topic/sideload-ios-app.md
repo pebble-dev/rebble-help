@@ -80,7 +80,10 @@ Installation:
 7. Fill in your Apple ID in the "Apple account" section.
 8. Press "Start" and wait for Sideloadly to install the app on the iOS device.
     > **[ALERT]**: At some point, there will be a popup that asks for your Apple ID password. Enter your Apple ID password.
-9. The Pebble app is now installed. If "Untrusted Developer" pops up on the iOS device when opening the app, go to the Settings app > General > Device Management > (your Apple ID email) and click on  "Trust (your Apple ID email)" The Pebble app should now have a "Verified" on that same settings page.
+9. The Pebble app is now installed.
+    - If "Untrusted Developer" pops up on the iOS device when opening the app, go to the Settings app > General > Device Management > (your Apple ID email) and click on  "Trust (your Apple ID email)" The Pebble app should now have a "Verified" on that same settings page.
+    - Since iOS 16 you need to enable the "Developer Mode" of you iOS Device. To do so, follow this [official documentation](https://developer.apple.com/documentation/xcode/enabling-developer-mode-on-a-device/) (~2 minutes to enable it and you have to reboot your iOS device).
+    Finaly you can use the sideloaded pebble app. 
 10. Go to the Rebble website and create a Rebble account (or sign in if you already have one).
 11. Click the "Switch to Rebble" button.
 12. **Redo steps 3-6 every week.**
