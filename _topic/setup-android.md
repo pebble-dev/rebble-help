@@ -54,6 +54,10 @@ If so, click through to Settings and select "Allow from this source" to enable i
 
 This will allow the official Pebble app to be sideloaded. You can revert this setting when the Pebble app is installed if you'd like!
 
+**On Android 14+ you may be blocked from install the Pebble app due to it's age.**
+
+In this case, you should use ADB to bypass this restriction. [Click here to view the guide on how to do this.](/apk-load-android/)
+
 **On earlier versions of Android (7 or below), the permissions step will be slightly different**. 
 
 If you are running Android 7 or below:
