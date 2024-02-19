@@ -23,7 +23,7 @@ If installing on Windows or MacOS, [see here](https://old.reddit.com/r/pebble/co
 
 ## Virtual machine
 
-The easiest installation option is the [Pebble Virtual Machine](https://willow.systems/pebble/vm).
+The easiest installation option is the [Pebble Virtual Machine](https://rebble.io/hackathon-001/vm/).
 
 ## Nix package
 
