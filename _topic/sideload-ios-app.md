@@ -114,7 +114,7 @@ Downloads and Links:
 DOWNLOADS
 </h3>
 
-- 64bit Pebble IPA for iOS 13 and newer (thanks Doakyz!): [com.getpebble.pebbletime-iPhone13.ipa](https://cdn.discordapp.com/attachments/461686541027377152/939035930138923008/com.getpebble.pebbletime-iPhone13.ipa)
+- 64bit Pebble IPA for iOS 13 and newer (thanks Doakyz!): [com.getpebble.pebbletime-iPhone13.ipa](https://kennedn.com/com.getpebble.pebbletime-iPhone13.ipa)
 - 64bit Pebble IPA: [com.getpebble.pebbletime.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime.ipa)
 - 32bit Pebble IPA (thanks Tamago's friend!): [com.getpebble.pebbletime-32bit.ipa](https://binaries.rebble.io/ipas/com.getpebble.pebbletime-32bit.ipa)
 - Sideloadly: [https://sideloadly.io/#download](https://sideloadly.io/#download)
