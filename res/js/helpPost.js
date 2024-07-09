@@ -127,6 +127,10 @@ function selectStep(stepID) {
         $('#btn_prev').removeClass("hidden");
     }
 
+    if (steps[currentStep].content[steps[currentStep].content.length-1].outerHTML.includes("<hidenav>")) {
+	$("#navButtons").addClass("hidden");
+    }
+
     location.hash = '#' + stepID;
 
     $('html,body').scrollTop(0);
