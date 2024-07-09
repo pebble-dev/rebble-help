@@ -175,6 +175,6 @@ If you want to use dictation, get weather pins in your Timeline, and have a fast
 
 If you have any other questions, [contact us on Discord!](/discord)
 
-## Welcome to *Rebbled* Pebble!
+## Welcome to Rebble!
 
 ![noborder](/images/setup/13.png)
