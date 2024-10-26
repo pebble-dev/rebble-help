@@ -199,6 +199,15 @@ qr img {
   }
 }
 
+/* hide nodesktop stuff on desktop */
+@media screen and (min-width: 601px) {
+  nodesktop {
+    visibility: hidden;
+    clear: both;
+    display: none;
+  }
+}
+
 .hidden {
   display: none !important;
 }
@@ -269,4 +278,93 @@ div.email-signup input[type="submit"] {
     border-bottom-right-radius: 0.2em;
     -webkit-appearance: none;
 
+}
+
+/* Alerts */
+alert {
+  display: block;
+  padding: 1rem;
+  margin: 1rem 0;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #333;
+  background-color: #fff3cd;
+  border-color: #ffeeba;
+}
+
+/* multi-step form */
+
+.timeline {
+  position: relative;
+  padding-left: 40px;
+}
+
+.step {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  transition: opacity 0.3s;
+  position: relative;
+}
+
+.step-circle {
+  width: 30px;
+  height: 30px;
+  border: 2px solid var(--color-header);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: var(--color-foreground-dark);
+  margin-right: 20px;
+  background-color: white;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.step.completed .step-circle {
+  background-color: var(--color-header);
+  color: white;
+  border: 2px solid var(--color-header);
+}
+
+.step-content {
+  flex: 1;
+}
+
+.line-container {
+  position: absolute;
+  left: 54px;
+  top: 15px; /* Adjust this value to align the line correctly */
+  bottom: 15px; /* Adjust this value to align the line correctly */
+  width: 2px;
+  z-index: -1;
+}
+
+.line {
+  position: absolute;
+  width: 2px;
+  background: #ddd;
+  top: 0;
+  bottom: 0;
+}
+
+.step.upcoming .step-circle {
+  background-color: white;
+  color: #ddd;
+  border-color: #ddd;
+}
+
+.step.upcoming .step-content {
+  opacity: 0.6;
+}
+
+.step.inactive {
+  opacity: 0.3;
+}
+
+button:disabled {
+  cursor: not-allowed;
 }

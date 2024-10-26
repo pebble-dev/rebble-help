@@ -1,0 +1,47 @@
+<div class="timeline" id="android_installer" hidden>
+    <div class="line-container">
+        <div class="line"></div>
+    </div>
+    <div class="step active">
+        <div class="step-circle">1</div>
+        <div class="step-content">
+            <h2>Connect your phone</h2>
+            <ol>
+                <li>Connect your phone to your computer with a USB cable.</li>
+                <li>
+                    Enable USB debugging on your phone.
+                    <ul>
+                        <li>Go to Settings > About phone > Software information.</li>
+                        <li>Tap "Build number" seven times.</li>
+                        <li>Go back to the main settings screen and tap "Developer options".</li>
+                        <li>Enable "USB debugging".</li>
+                    </ul>
+                </li>
+                <li>Click the button below to connect your device. Follow prompts from your browser.</li>
+            </ol>
+            <button class="mt-5 highlight" id="connect">Connect <i class="fas fa-link"></i></button>
+        </div>
+    </div>
+    <div class="step upcoming">
+        <div class="step-circle">2</div>
+        <div class="step-content">
+            <h2>Begin Installation</h2>
+            <p>Once you click the button below, we'll start the installation process on your phone. <em>Do not
+                    disconnect your phone during this process. Keep your phone awake during the process.</em></p>
+            <p id="status_text"></p>
+            <button class="mt-5 previousstep highlight" id="install"> Install <i class="fas fa-download"></i></button>
+        </div>
+    </div>
+    <div class="step upcoming">
+        <div class="step-circle">3</div>
+        <div class="step-content">
+            <h2>All done!</h2>
+            <a href="/setup-android/#5">Continue with the Android setup guide.</a><br />
+            <img width="200" height="200" style="border:0;" src="{{ site.baseurl }}/images/setup/13.png">
+        </div>
+    </div>
+</div>
+<script src="{{ site.baseurl }}/res/js/adb.js"></script>
+<script src="{{ site.baseurl }}/res/js/androidInstaller.js"></script>
+
+

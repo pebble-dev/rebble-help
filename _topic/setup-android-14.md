@@ -15,6 +15,10 @@ Android 14 introduced new restrictions around SDK target version for apps you ca
 
 In this guide we'll use ADB to bypass this.
 
+# Try the install helper
+
+If you have a computer running Google Chrome, you can use our [install helper](/android-installer) to install the Pebble app on your phone. If that doesn't work, continue with the manual instructions.
+
 # Install ADB
 
 If you don't already have it setup, install Android Debug Bridge using [the instructions linked here](https://www.xda-developers.com/install-adb-windows-macos-linux/)
