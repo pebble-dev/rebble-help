@@ -13,7 +13,7 @@ os: android
 
 If you are using the Pebble app with Android 9 or later, you might have trouble with caller IDs.
 
-The solution is to install [Dialer for Pebble](https://apps.rebble.io/en_US/application/532323bf60c773c1420000a8), and the associated [companion app](https://play.google.com/store/apps/details?id=com.matejdro.pebbledialer).
+The solution is to install [Dialer for Pebble](https://apps.rebble.io/en_US/application/532323bf60c773c1420000a8), and the associated [companion app](https://f-droid.org/packages/com.matejdro.pebbledialer/).
 
 Follow the instructions in the Dialer for Pebble app to make it work properly.
 
